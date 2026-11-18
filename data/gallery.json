@@ -1875,7 +1875,7 @@
       "title": "대한조선학회 추계학술대회",
       "date": "2021-11",
       "year": 2021,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/0_단체_학회장.webp",
       "info": [
         {
           "label": "발표",
@@ -1904,14 +1904,87 @@
           "count": 4
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/0_단체_학회장.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/10_누구지_발표.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/10_누구지_발표.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/11_누구지_발표.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/11_누구지_발표.webp",
+          "w": 960,
+          "h": 721
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/1_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/1_단체_학회장.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/2_누구지_수상.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/2_누구지_수상.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/3_누구지_수상.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/3_누구지_수상.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/4_누구지_수상.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/4_누구지_수상.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/5_김대웅_수상.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/5_김대웅_수상.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/6_김휘수_발표.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/6_김휘수_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/7_김구현_발표.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/7_김구현_발표.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/8_누구지_발표.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/8_누구지_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/thumb/9_김구현_발표.webp",
+          "full": "assets/img/gallery/conference/2021-11-대한조선학회-추계학술대회/full/9_김구현_발표.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
     },
     {
       "id": "2021-10-한국해양공학회-추계학술대회",
       "title": "한국해양공학회 추계학술대회",
       "date": "2021-10",
       "year": 2021,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2021-10-한국해양공학회-추계학술대회/thumb/0_단체_학회장.webp",
       "info": [
         {
           "label": "발표",
@@ -1924,14 +1997,39 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2021-10-한국해양공학회-추계학술대회/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2021-10-한국해양공학회-추계학술대회/full/0_단체_학회장.webp",
+          "w": 1600,
+          "h": 1201
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-10-한국해양공학회-추계학술대회/thumb/1_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2021-10-한국해양공학회-추계학술대회/full/1_단체_학회장.webp",
+          "w": 1600,
+          "h": 940
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-10-한국해양공학회-추계학술대회/thumb/2_배너_학회장.webp",
+          "full": "assets/img/gallery/conference/2021-10-한국해양공학회-추계학술대회/full/2_배너_학회장.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-10-한국해양공학회-추계학술대회/thumb/3_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2021-10-한국해양공학회-추계학술대회/full/3_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2021-05-한국해양과학기술협의회-공동학술대회",
       "title": "한국해양과학기술협의회 공동학술대회",
       "date": "2021-05",
       "year": 2021,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/thumb/0_단체_학회장.webp",
       "info": [
         {
           "label": "발표",
@@ -1960,7 +2058,44 @@
           "count": 5
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/full/0_단체_학회장.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/thumb/1_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/full/1_단체_학회장.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/thumb/2_이순현_수상.webp",
+          "full": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/full/2_이순현_수상.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/thumb/3_이순현_수상.webp",
+          "full": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/full/3_이순현_수상.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/thumb/4_현여진_수상.webp",
+          "full": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/full/4_현여진_수상.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/thumb/5_현여진_수상.webp",
+          "full": "assets/img/gallery/conference/2021-05-한국해양과학기술협의회-공동학술대회/full/5_현여진_수상.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
     },
     {
       "id": "2020-11-추계-대한조선학회",
