@@ -1,4 +1,5 @@
 """빌드 스크립트 공통 기능 (사진 변환, 이름 정리, 날짜 읽기, 남은 파일 정리)"""
+import os
 import re
 from pathlib import Path
 
@@ -60,10 +61,29 @@ def convert(src: Path, outputs, label=None):
         return f.size
 
 
+def fix_case(paths):
+    """
+    Windows 는 대소문자를 구분하지 않아서, 원본 폴더 이름을 'smp' → 'SMP' 처럼 바꾸면
+    변환 폴더는 예전 이름(smp) 그대로 남는다. 내 PC 에선 보이지만 웹 서버에선 404 가 나므로
+    실제 폴더/파일 이름을 data/*.json 에 적힌 이름과 똑같이 맞춘다.
+    """
+    for p in paths:
+        cur = ROOT
+        for part in p.relative_to(ROOT).parts:
+            actual = next((n for n in os.listdir(cur) if n.lower() == part.lower()), part) if cur.is_dir() else part
+            if actual != part:
+                tmp = cur / (part + ".__case__")
+                os.rename(cur / actual, tmp)
+                os.rename(tmp, cur / part)
+                print(f"  이름 대소문자 수정: {actual} → {part}")
+            cur = cur / part
+
+
 def clean_outputs(out_dir: Path, keep: set, exts=(".webp",)):
     """out_dir 안에서 이번 빌드에 쓰이지 않은 변환 파일(exts)과 빈 폴더 삭제 (원본에서 지운 사진 정리)"""
     if not out_dir.exists():
         return
+    fix_case(keep)
     for f in out_dir.rglob("*"):
         if f.is_file() and f.suffix.lower() in exts and f not in keep:
             f.unlink()
