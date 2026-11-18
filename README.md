@@ -6,6 +6,10 @@ CMS 없이 HTML/CSS/JS 로만 만든 정적(static) 연구실 홈페이지.
 `start-server.bat` 더블클릭 → 브라우저에서 http://localhost:8000
 (html 파일을 직접 더블클릭하면 JSON 데이터가 안 읽힘)
 
+## 온라인에 올리기: `publish.bat`
+`update-site.bat` 과 같은 변환을 한 뒤 바뀐 파일을 GitHub 에 올림 → 1~2분 뒤 https://ziw215.github.io/iphl/ 에 반영.
+(내 PC 에서만 확인할 때는 `update-site.bat`. 저장소를 연구실 계정으로 옮기면 `publish.bat` 의 주소 줄과 `git remote set-url origin 새주소`)
+
 ## 사진/뉴스 갱신: `update-site.bat`
 아래 `-src` 폴더에 원본을 넣거나 지운 뒤 `update-site.bat` 실행 → 웹용 WebP 변환 + JSON 자동 생성.
 ```
