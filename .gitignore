@@ -1,0 +1,9 @@
+# 원본 사진/글 (변환된 결과물만 배포. 원본은 따로 백업해 두세요)
+gallery-src/
+news-src/
+people-src/
+home-src/
+research-src/
+
+_upload/
+__pycache__/

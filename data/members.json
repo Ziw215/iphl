@@ -1,0 +1,92 @@
+[
+  {
+    "group": "Professor",
+    "name": "Kwang-Jun Paik",
+    "nameKo": "백광준",
+    "title": "Professor",
+    "department": "Department of Naval Architecture and Ocean Engineering, Inha University",
+    "email": "kwangjun.paik@inha.ac.kr",
+    "phone": "032-860-7331",
+    "office": "2N489",
+    "interests": "Marine hydrodynamics (CFD & EFD), Ship propulsion systems",
+    "photo": "",
+    "education": [
+      "Ph.D., Mechanical Engineering, University of Iowa (2010) — \"Simulation of fluid-structure interaction for surface ships with linear/nonlinear deformations\"",
+      "M.S., Naval Architecture and Ocean Engineering, Pusan National University",
+      "B.S., Naval Architecture and Ocean Engineering, Pusan National University"
+    ],
+    "career": [
+      "2024.03 – Present: Professor, Inha University",
+      "2019.03 – 2024.02: Associate Professor, Inha University",
+      "2016.03 – 2019.02: Assistant Professor, Inha University",
+      "2015.03 – 2016.02: Assistant Professor, Ulsan College",
+      "2000.01 – 2015.02: Senior Researcher, Samsung Heavy Industries Central R&D Institute"
+    ],
+    "awards": [
+      "2021.10.21: Best Associate Editor Award, The Korean Society of Marine Engineering",
+      "2021.09.09: Commendation, Ministry of Trade, Industry and Energy",
+      "2021.06.24: Excellent Paper Award, The Korean Society of Marine Engineering",
+      "2016.11.03: Paper Award, The Society of Naval Architects of Korea"
+    ]
+  },
+
+  { "group": "Researcher", "name": "Jung-Joong Kim", "nameKo": "김정중", "title": "Research Professor", "email": "jjoong.kim@inha.ac.kr", "interests": "Hull form design, Resistance & propulsion, CFD", "photo": "" },
+  { "group": "Researcher", "name": "Sung-Mok Ahn", "nameKo": "안성목", "title": "Senior Researcher", "email": "sungmokahn@inha.ac.kr", "interests": "Hull form design", "photo": "" },
+  { "group": "Researcher", "name": "Min-Ju Park", "nameKo": "박민주", "title": "Researcher", "email": "pmj1309@inha.ac.kr", "interests": "", "photo": "" },
+  { "group": "Researcher", "no": "09", "name": "Soon-Hyun Lee", "nameKo": "이순현", "title": "Researcher", "email": "soonhyun.lee@inha.ac.kr", "interests": "Resistance & propulsion, Ballast-free ship, VIV", "photo": "" },
+
+  { "group": "PhD", "no": "37", "name": "Su-A Jeong", "nameKo": "정수아", "title": "Ph.D. Student", "email": "ddua0502@naver.com", "interests": "Ship resistance, CFD, Ship design, Potential, Contra-Rotating Propeller", "photo": "" },
+  { "group": "PhD", "no": "41", "name": "Jae-Hyeon An", "nameKo": "안재현", "title": "Ph.D. Student", "email": "ajh9330@inha.edu", "interests": "Ship resistance, CFD, Ship design, Flapping motion", "photo": "" },
+  { "group": "PhD", "no": "40", "name": "Nak-Yong Choi", "nameKo": "최낙용", "title": "Ph.D. Student", "email": "nychoi@hd.com", "interests": "Ship resistance, CFD, Ship design, ML", "photo": "" },
+  { "group": "PhD", "no": "51", "name": "Jong-Ou Nahm", "nameKo": "남종오", "title": "Ph.D. Student", "email": "ukihako@hanwha.com", "interests": "Ship resistance, CFD, Ship design", "photo": "" },
+
+  { "group": "MS", "no": "39", "name": "Seong-Jin Eom", "nameKo": "엄성진", "title": "M.S. Student", "email": "eomseongjin2@naver.com", "interests": "Ship resistance, CFD, Ship design, Automation, Coanda Propeller", "photo": "" },
+  { "group": "MS", "no": "33", "name": "Jun-Hwan Kim", "nameKo": "김준환", "title": "M.S. Student", "email": "sgjun99@naver.com", "interests": "Ship resistance, CFD, Pipe flow, Submarine", "photo": "" },
+  { "group": "MS", "no": "34", "name": "Ho-Won Lee", "nameKo": "이호원", "title": "M.S. Student", "email": "howonlee1213@naver.com", "interests": "Ship resistance, CFD, Ship design, Submarine", "photo": "" },
+  { "group": "MS", "no": "45", "name": "Jun-Sung Park", "nameKo": "박준성", "title": "M.S. Student", "email": "wnstjd5604@naver.com", "interests": "Ship resistance, CFD, Ship design, Flapping motion", "photo": "" },
+  { "group": "MS", "no": "36", "name": "Ji-Min Kang", "nameKo": "강지민", "title": "M.S. Student", "email": "ks212401@naver.com", "interests": "Ship resistance, CFD, Ship design, Ice interaction", "photo": "" },
+  { "group": "MS", "no": "38", "name": "Hee-Won Cho", "nameKo": "조희원", "title": "M.S. Student", "email": "shanonjo@naver.com", "interests": "Ship resistance, CFD, Ship design, Submarine", "photo": "" },
+  { "group": "MS", "no": "42", "name": "Yun-Hye Lee", "nameKo": "이윤혜", "title": "M.S. Student", "email": "mirea0623@naver.com", "interests": "Ship resistance, CFD, Ship design, Submarine", "photo": "" },
+  { "group": "MS", "no": "43", "name": "Jun-Young Choi", "nameKo": "최준영", "title": "M.S. Student", "email": "cjy3887@naver.com", "interests": "Ship resistance, CFD, Ship design, Contra-Rotating Propeller", "photo": "" },
+  { "group": "MS", "no": "46", "name": "Ji-Wan Ko", "nameKo": "고지완", "title": "M.S. Student", "email": "wldhks0215@inha.edu", "interests": "Ship resistance, CFD, Ship design, Bubble dynamics", "photo": "" },
+
+  { "group": "Undergraduate", "no": "48", "name": "Tae-Bin Kang", "nameKo": "강태빈", "title": "Undergraduate Student", "email": "tb03077@gmail.com", "interests": "Ship resistance, CFD, Ship design", "photo": "" },
+  { "group": "Undergraduate", "no": "49", "name": "Hyoung-June Kim", "nameKo": "김형준", "title": "Undergraduate Student", "email": "khj0357@inha.edu", "interests": "Ship resistance, CFD, Ship design", "photo": "" },
+  { "group": "Undergraduate", "no": "50", "name": "Tae-Geon Jang", "nameKo": "장태건", "title": "Undergraduate Student", "email": "jangtg03@gmail.com", "interests": "Ship resistance, CFD, Ship design", "photo": "" },
+
+  { "group": "Alumni", "no": "09", "degree": "PhD", "name": "Soon-Hyun Lee", "nameKo": "이순현", "interests": "저항추진, 무평형수, VIV", "thesis": "실해력 조건을 고려한 선박의 파랑 중 부가저항 및 소요 마력 추정에 관한 수치적 연구", "current": "NTNU Postdoctoral researcher", "email": "" },
+  { "group": "Alumni", "no": "21", "degree": "PhD", "name": "Jun-Hee Lee", "nameKo": "이준희", "interests": "저항추진, 코안다, 캐비테이션", "thesis": "코안다 효과를 이용한 선박용 추진기의 성능 평가 방법 및 실용성 평가에 관한 연구", "current": "한국선급 친환경선박해양연구소 선박해양기술팀", "email": "" },
+
+  { "group": "Alumni", "no": "08", "degree": "MS", "name": "Gi-Hyeong Kwon", "nameKo": "권기형", "interests": "관내다상유동", "thesis": "액화 천연 가스 2상 유동의 유동해석을 통한 직각 곡배관 최적 설계를 위한 연구", "current": "현대중공업 기본설계부", "email": "" },
+  { "group": "Alumni", "no": "12", "degree": "MS", "name": "Hyeon-Pyo Kim", "nameKo": "김현표", "interests": "관내유동", "thesis": "볼 밸브의 캐비테이션 억제를 위한 후단 오리피스에 대한 파라메트릭 연구", "current": "한국조선해양 에너지기술랩 시스템안전연구실", "email": "" },
+  { "group": "Alumni", "no": "06", "degree": "MS", "name": "Myeong-Jin Eom", "nameKo": "엄명진", "interests": "난류촉진장치, 추진기, Hydrofoil", "thesis": "코안다효과를 접목한 선박용 추진기에 대한 수치적 연구", "current": "한화오션 성능최적화연구실", "email": "" },
+  { "group": "Alumni", "no": "10", "degree": "MS", "name": "Ji-Yeon Ha", "nameKo": "하지연", "interests": "추진기, 부가저항, 천이모델", "thesis": "발라스트 흘수로 파랑 중 운항하는 선박의 자항 성능 추정을 위한 가상체적법 적용에 관한 연구", "current": "LG에너지솔루션 선행공정해석", "email": "" },
+  { "group": "Alumni", "no": "04", "degree": "MS", "name": "Kwan-Woo Kim", "nameKo": "김관우", "interests": "해양내부파, 난류유동, 특수선", "thesis": "실선 저항 추정을 위한 가상유체를 활용한 수치해석의 타당성 연구", "current": "ADD 국방과학연구소", "email": "" },
+  { "group": "Alumni", "no": "05", "degree": "MS", "name": "Dong-Young Kim", "nameKo": "김동영", "interests": "다상유동, 공기윤활", "thesis": "다상유동 모델인 Eulerian Multiphase Model 기법을 이용한 공기윤활 시스템을 적용한 선박에 대한 수치해석 연구", "current": "한국조선해양 에너지연구랩", "email": "" },
+  { "group": "Alumni", "no": "18", "degree": "MS", "name": "Seong-Hwan Kwon", "nameKo": "권성환", "interests": "가스선, FSRU, CFD", "thesis": "수소 운반선의 안전 설계를 위한 벤트 마스크 출구에서의 수소 기체 확산 연구", "current": "현대중공업 기본설계부", "email": "" },
+  { "group": "Alumni", "no": "01", "degree": "MS", "name": "Yoon-Ho Jang", "nameKo": "장윤호", "interests": "EFD, 추진기, 자항해석", "thesis": "파랑 중 프로펠러와 자유수면과의 상호작용을 고려한 개선된 Body Force Method 개발", "current": "LG에너지솔루션 열유동해석", "email": "" },
+  { "group": "Alumni", "no": "07", "degree": "MS", "name": "Ju-Han Lee", "nameKo": "이주한", "interests": "특수선, 저항추진, 내부파", "thesis": "제트 분사 프로펠러의 설계 및 성능 평가에 관한 연구", "current": "현대중공업 선박해양연구소 선박성능연구실", "email": "" },
+  { "group": "Alumni", "no": "11", "degree": "MS", "name": "Hong-Sik Hwang", "nameKo": "황홍식", "interests": "공기윤활, 캐비테이션, 소음", "thesis": "프로펠러의 캐비테이션에 의한 유동 및 소음특성에 관한 연구", "current": "한국조선해양 미래선박연구랩", "email": "" },
+  { "group": "Alumni", "no": "13", "degree": "MS", "name": "Gu-Hyeon Kim", "nameKo": "김구현", "interests": "불규칙파, 저항추진", "thesis": "극한환경상태인 선박의 저항 및 소요마력 추정에 관한 수치적 연구", "current": "현대트랜시스 구동시스템해석팀", "email": "" },
+  { "group": "Alumni", "no": "14", "degree": "MS", "name": "Dong-Hun Lee", "nameKo": "이동훈", "interests": "충돌회피, 경로추정", "thesis": "가변적 선박 안전영역 및 충돌 위험지수를 반영한 선박 충돌 회피 시스템에 관한 연구", "current": "NTNU Doctoral student", "email": "" },
+  { "group": "Alumni", "no": "15", "degree": "MS", "name": "Jun-Hui Cho", "nameKo": "조준희", "interests": "불규칙파, 저항추진", "thesis": "선수 사파 중 선박의 부가저항 및 운동응답 추정에 대한 수치적 연구", "current": "현대중공업 기본계획부", "email": "" },
+  { "group": "Alumni", "no": "25", "degree": "MS", "name": "Hyeong-Min Lee", "nameKo": "이형민", "interests": "구조 고유 진동", "thesis": "형상에 따른 배관 내부 유체의 열전달에 관한 수치적 연구", "current": "한화오션", "email": "" },
+  { "group": "Alumni", "no": "17", "degree": "MS", "name": "Dae-Woong Kim", "nameKo": "김대웅", "interests": "", "thesis": "강화학습을 활용한 무인선의 타선 및 정적 장애물 충돌회피 알고리즘의 연구", "current": "한국조선해양 프로젝트솔루션부", "email": "rlaeodnd1515@gmail.com" },
+  { "group": "Alumni", "no": "23", "degree": "MS", "name": "Hwi-Su Kim", "nameKo": "김휘수", "interests": "", "thesis": "자유항주 조건에서 운항조건에 따른 타각 및 회전수 PID 제어 게인 특징에 관한 연구", "current": "한국조선해양 미래선박연구랩", "email": "tn5358@naver.com" },
+  { "group": "Alumni", "no": "26", "degree": "MS", "name": "Jun Hwang-Bo", "nameKo": "황보준", "interests": "", "thesis": "연안소형어선의 성능 평가와 프로펠러 설계에 관한 연구", "current": "선박해양플랜트연구소", "email": "bearjun87@naver.com" },
+  { "group": "Alumni", "no": "19", "degree": "MS", "name": "Yeo-Jin Hyun", "nameKo": "현여진", "interests": "전기추진, 캐비테이션", "thesis": "전기추진선박의 프로펠러 회전속도 제어를 통한 추력 변동 및 케비테이션 저감 기법에 대한 연구", "current": "NTNU Doctoral student", "email": "" },
+  { "group": "Alumni", "no": "30", "degree": "MS", "name": "Jae-Hyoung Jun", "nameKo": "전제형", "interests": "", "thesis": "어선의 저항 성능 향상을 위한 차인 설계 및 특성에 관한 연구", "current": "uniaet", "email": "jaehyoung.jun@uniaet.com" },
+  { "group": "Alumni", "no": "31", "degree": "MS", "name": "Si-Jin Ryu", "nameKo": "류시진", "interests": "공정설계", "thesis": "선박 강제 환기 시스템 구비에 의한 안전구역 내 독성 연료 증기 배출 및 축적에 대한 잠재위험 평가", "current": "삼성중공업", "email": "rsj.official@gmail.com" },
+  { "group": "Alumni", "no": "22", "degree": "MS", "name": "Mu-Yeong Seo", "nameKo": "서무영", "interests": "자율운항, 머신러닝", "thesis": "기계 학습을 통한 자율운항선박의 최적 회피 시점에 관한 연구", "current": "NTNU Doctoral student", "email": "moo1606@naver.com" },
+  { "group": "Alumni", "no": "29", "degree": "MS", "name": "Myeong-Min Kim", "nameKo": "김명민", "interests": "저항추진, HEEDS, 수중발사체", "thesis": "K-SUPRAMAX 선형의 스케일 차이에 따른 저속 정수 및 규칙파 조건에서의 선박 성능에 관한 수치적 연구", "current": "한화오션 성능최적화연구실", "email": "12180533@inha.ac.kr" },
+  { "group": "Alumni", "no": "27", "degree": "MS", "name": "Won-Jun Yoo", "nameKo": "유원준", "interests": "자율운항", "thesis": "UKF 기반 확률적 선박 도메인을 활용한 실시간 충돌 회피 및 위험 평가", "current": "", "email": "ut.wjy64@gmail.com" },
+  { "group": "Alumni", "no": "35", "degree": "MS", "name": "Beyoung-U You", "nameKo": "유병우", "interests": "저항추진", "thesis": "기포 동역학 기반 CIS 판정 및 CFD를 이용한 소음 예측", "current": "", "email": "dmstjsqud@naver.com" },
+
+  { "group": "Alumni", "no": "02", "degree": "BS", "name": "Tae-Hyeong Kim", "nameKo": "김태형", "interests": "", "thesis": "", "current": "한화오션", "email": "" },
+  { "group": "Alumni", "no": "03", "degree": "BS", "name": "Hyeon-Woo Shin", "nameKo": "신현우", "interests": "", "thesis": "", "current": "삼성전자 글로벌인프라총괄", "email": "" },
+  { "group": "Alumni", "no": "16", "degree": "BS", "name": "Shin-Min Kang", "nameKo": "강신민", "interests": "", "thesis": "", "current": "삼성전자", "email": "" },
+  { "group": "Alumni", "no": "20", "degree": "BS", "name": "Jong-Chul Kim", "nameKo": "김종철", "interests": "", "thesis": "", "current": "현대중공업 기본계획부", "email": "" },
+  { "group": "Alumni", "no": "28", "degree": "BS", "name": "Joo-Hyun Lee", "nameKo": "이주현", "interests": "자율운항", "thesis": "", "current": "서울대학교 대학원", "email": "eclassjh@naver.com" },
+  { "group": "Alumni", "no": "32", "degree": "BS", "name": "Min-Hong Lee", "nameKo": "이민홍", "interests": "", "thesis": "", "current": "국군수송사령부", "email": "mhlee6629@gmail.com" },
+  { "group": "Alumni", "no": "44", "degree": "BS", "name": "Jun-Yeong Kim", "nameKo": "김준영", "interests": "저항추진", "thesis": "", "current": "", "email": "smjun0201@naver.com" }
+]

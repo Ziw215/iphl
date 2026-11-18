@@ -1,0 +1,692 @@
+[
+  {
+    "type": "international",
+    "year": 2025,
+    "title": "UKF-Enhanced Probabilistic Ship Domain for Real-Time Collision Risk and Damage Assessment",
+    "venue": "AYOCOL"
+  },
+  {
+    "type": "international",
+    "year": 2025,
+    "title": "A numerical study on the trajectory characteristics of an underwater projectile under varying platform velocity",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2025,
+    "title": "A Numerical Study on Geometry of Propeller Using the Coanda Effect",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2025,
+    "title": "A Numerical Study on the Dynamic Motion of a Sonar Cable in a Submarine Affected by Propeller Wake",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2025,
+    "title": "A numerical study on noise prediction and CIS determination using CFD",
+    "venue": "PRADS"
+  },
+  {
+    "type": "international",
+    "year": 2025,
+    "title": "Analysis of Wake Characteristics for Contra-Rotating Propellers by CFD",
+    "venue": "PRADS"
+  },
+  {
+    "type": "international",
+    "year": 2025,
+    "title": "Numerical Analysis of Scale Effects on Resistance and Propulsion Performance of the K-SUPRAMAX in Low-Speed Condition",
+    "venue": "PRADS"
+  },
+  {
+    "type": "international",
+    "year": 2025,
+    "title": "A Study on Collision Avoidance Timing for Autonomous Ships using Machine Learning",
+    "venue": "ISOPE"
+  },
+  {
+    "type": "international",
+    "year": 2025,
+    "title": "A Study on Real-time Collision Avoidance Considering Ship Position Uncertainty Based on AIS Data",
+    "venue": "G-NAOE"
+  },
+  {
+    "type": "international",
+    "year": 2024,
+    "title": "A Numerical Study on Estimating the Minimum Required Power in Adverse Conditions Considering Short-Crested Irregular Wave Conditions",
+    "venue": "ISOPE"
+  },
+  {
+    "type": "international",
+    "year": 2024,
+    "title": "A Study on Collision Avoidance Timing for Autonomous Ships using Machine Learning",
+    "venue": "ISOPE"
+  },
+  {
+    "type": "international",
+    "year": 2024,
+    "title": "A Study on Real-time Collision Avoidance Considering Ship Position Uncertainty Based on AIS Data",
+    "venue": "G-NAOE"
+  },
+  {
+    "type": "international",
+    "year": 2023,
+    "title": "A comparative study on the added resistance and motion RAOs of commercial ship in regular and irregular wave conditions",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2023,
+    "title": "A parametric study on the blade geometry for a Coanda propeller",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2023,
+    "title": "A study on the control method of rotational speed to reduce the thrust fluctuation of a marine propeller",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2023,
+    "title": "Collision Avoidance System with rule-based Velocity Obstacle Method using Collision Risk Index",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2022,
+    "title": "A Numerical study of tanker resistance performance",
+    "venue": "G-NAOE"
+  },
+  {
+    "type": "international",
+    "year": 2022,
+    "title": "A numerical study on the motion and load of unit type floating solar power farm under the real sea area",
+    "venue": "G-NAOE"
+  },
+  {
+    "type": "international",
+    "year": 2022,
+    "title": "Proposal for a method to reduce propeller vibration through harmonic injection of motor",
+    "venue": "PRADS"
+  },
+  {
+    "type": "international",
+    "year": 2022,
+    "title": "An Experiment and numerical study on the characteristics of motion and load for floating solar power farm in regular waves",
+    "venue": "PRADS"
+  },
+  {
+    "type": "international",
+    "year": 2021,
+    "title": "A Study on the Vibration and Noise Characteristics of a Delft Twist11 Hydrofoil according to Cavitation Number",
+    "venue": "11th International Symposium on Cavitation"
+  },
+  {
+    "type": "international",
+    "year": 2020,
+    "title": "A Study on the Estimation Method for the Required Power of a Ship in Irregular Waves using a RANS Solver",
+    "venue": "Workshop on Ships and Offshore Structures"
+  },
+  {
+    "type": "international",
+    "year": 2019,
+    "title": "Numerical Study on the Interaction between Surface and Internal Waves in a Stratified Two-Layer Fluid",
+    "venue": "Workshop on Ships and Offshore Structures"
+  },
+  {
+    "type": "international",
+    "year": 2019,
+    "title": "A Numerical Study on the Propeller Performance by the Ship Motion in Regular Head Waves",
+    "venue": "Sixth International Symposium on Marine Propulsors"
+  },
+  {
+    "type": "international",
+    "year": 2019,
+    "title": "A Numerical Study on the Effect of an Air Lubrication System for the Frictional Resistance Reduction of a Ship",
+    "venue": "Europe-Korea Conference on Science and Technology"
+  },
+  {
+    "type": "international",
+    "year": 2018,
+    "title": "Numerical Study on the Interaction between the Internal and Surface Waves by a Sphere Moving in a Two-Layer Stratified Fluid",
+    "venue": "World Maritime Technology Conference"
+  },
+  {
+    "type": "international",
+    "year": 2018,
+    "title": "Numerical Study on the Self-Propulsion Performance of KVLCC2 Model Ship in Regular Head Waves",
+    "venue": "World Maritime Technology Conference"
+  },
+  {
+    "type": "international",
+    "year": 2018,
+    "title": "Numerical Investigation on the Nominal Wake of KVLCC2 Model Ship in Regular Head Waves",
+    "venue": "ISOPE PACOMS"
+  },
+  {
+    "type": "international",
+    "year": 2018,
+    "title": "Numerical Study on the Open Water Performance of a Propeller with Sinusoidal Pitch Motion",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2018,
+    "title": "Numerical Study on the Open Water Performance of a Propeller Operating beneath Regular Wave",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2018,
+    "title": "Numerical Study on the Behavior of Air Layer for the Reduction of Frictional Resistance in a Model Ship",
+    "venue": "PAAMES-AMEC"
+  },
+  {
+    "type": "international",
+    "year": 2018,
+    "title": "Numerical study of the interaction between the internal and surface waves by a 2D hydrofoil moving in two-layer stratified fluid",
+    "venue": "International Conference on Hydrodynamics"
+  },
+  {
+    "type": "international",
+    "year": 2018,
+    "title": "A Study on the Performance of a Marine Propeller Operating in Waves",
+    "venue": "Europe-Korea Conference on Science and Technology"
+  },
+  {
+    "type": "international",
+    "year": 2018,
+    "title": "A Numerical Study on an Air Layer for Reducing Frictional Resistance",
+    "venue": "Workshop on Ships and Offshore Structures"
+  },
+  {
+    "type": "international",
+    "year": 2017,
+    "title": "Numerical Study on the Bifurcation Mechanism of Air Layer on a Flat Plate",
+    "venue": "10th International Workshop on Ship and Marine Hydrodynamics"
+  },
+  {
+    "type": "international",
+    "year": 2017,
+    "title": "Effect on fluid grid system for numerical bench marking of fluid-structure interaction",
+    "venue": "4th Symposium on FSSIC"
+  },
+  {
+    "type": "international",
+    "year": 2017,
+    "title": "Numerical Study on the Performance of a Partially Submerged Propeller in Bollard Condition",
+    "venue": "Fifth International Symposium on Marine Propulsors"
+  },
+  {
+    "type": "international",
+    "year": 2016,
+    "title": "A study on the internal flow system for development of a ballast-free ship",
+    "venue": "PRADS"
+  },
+  {
+    "type": "international",
+    "year": 2016,
+    "title": "Study on Grid System of Fluid Domain for Fluid-Structure Interaction",
+    "venue": "The 12th World Congress on Computational Mechanics"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "AIS 데이터 머신 러닝을 통한 자율운항선박의 충돌회피 시점에 관한 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "캐비테이션 저감을 위한 회전 속도 제어 기법에 대한 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "연안소형어선의 선미 부가물에 따른 자항 성능 추정에 관한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "자유항주 조건에서 운항조건에 따른 PID제어 게인 특징에 관한 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "Short-crested irregular wave 중 K-supramax 선형의 소요마력 추정에 관한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "코안다 효과를 이용한 프로펠러의 블레이드 형상에 대한 파라메트릭 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "Short-crested irregular wave 중 K-Supramax 선형의 부가저항 성능에 관한 수치적 연구",
+    "venue": "선박해양유체연구회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "다양한 선수각에 따른 KCS 선형의 규칙 사파 중 부가저항성능에 관한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "4.99톤급 연안어선의 다양한 제원변화에 따른 저항성능에 관한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "K-SUPRAMAX선형의 규칙파 중 바람에 의한 소요마력 추정에 관한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2023,
+    "title": "구속조건에 따른 SVLCC 선형의 규칙 및 불규칙 사파 중 부가저항 및 유체성능 비교 분석",
+    "venue": "선박해양유체연구회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "위성데이터를 이용한 항로추정의 실선 결과와 비교",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "액터-크리틱기법을 활용한 선박 충돌 회피 알고리즘의 개발",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "자율운항선박의 다수 선박 회피를 위한 도메인 기반 충돌 위험도 지수에 관한 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "K-SUPRAMAX 선형의 규칙파 중 자항 성능에 관한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "대기경계층을 고려한 K-SUPRAMAX 선형의 풍하중 추정에 관한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "프로펠러 추력변동 저감을 위한 회전 속도 제어 기법 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "499톤급 연안어선의 저항성능 최적화 선형 설계를 위한 수치적실험적연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "AMR(Automatic Mesh Refinement)을 활용한 선박의 저항 및 운동성능 계측을 위한 수치해석 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "충돌 위험도 지표 및 속도 장애물 기법을 이용한 선박 충돌 회피 통합 시뮬레이션 시스템의 개발",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "수치해석을 이용한 자유 항주 KVLCC2 선형의 규칙파 중 부가저항 성능 추정에 관한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "실해역에서 단위형 부유식 태양광 거동 및 하중에 관한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2022,
+    "title": "불규칙 선수 사파 중 선박의 부가저항 및 운동응답에 대한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2021,
+    "title": "구속 조건에 따른 K-Supramax 선형의 규칙파 중 수치해석에 관한 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2021,
+    "title": "Soft spring system을 이용한 선수 사파 중 선박의 부가저항 및 운동응답에 대한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2021,
+    "title": "자유 수면과의 상호작용을 고려한 가상 체적법 개발에 관한 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2021,
+    "title": "파랑 중 수상태양광 운동 및 하중 특성에 관한 연구",
+    "venue": "한국해양공학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2021,
+    "title": "수치해석을 이용한 Tip Vortex Cavitation 유동 및 소음특성에 관한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2021,
+    "title": "불규칙파 중 KVLCC2 선박의 부가저항 및 운동응답특성에 관한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2021,
+    "title": "코안다 효과를 이용한 단순 형상 프로펠러의 분사구 형상 최적화에 대한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2021,
+    "title": "RANS Solver를 활용한 불규칙파 생성 방법에 관한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "Numerical study on the vibration and noise characteristics TVC",
+    "venue": "한국해양공학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "KVLCC2 선박의 파랑 중 유체성능 및 Sea state에 따른 소요마력 추정법에 관한 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "코안다 효과를 이용한 단순 형상 프로펠러의 성능 변화에 대한 실험 및 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "소형 무인 선박의 GPS 추종 정확도 향상을 위한 알고리즘 개발",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "A Study on the Estimation Method for the Required Power of a Ship in Irregular Waves using a RANS Solver",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "코안다 효과를 이용한 2차원 수중익의 양항력 성능에 대한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "파랑 중 선박의 운동을 고려한 프로펠러의 성능 추정 기법에 대한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "모형선의 공기 윤활 시스템을 이용한 자항 성능 변화에 관한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "FW-H를 이용한 Delft Twist 11 Hydrofoil의 진동 및 소음특성에 관한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2020,
+    "title": "CFD를 이용한 수중운동체 프로펠러의 난류항적 특성 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2019,
+    "title": "선수규칙파 중 작동하는 KVLCC2 프로펠러의 성능 추정 방법에 대한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2019,
+    "title": "성층화된 유체 내에서 기동하는 잠수체의 유동 특성 및 파형 변화에 관한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2019,
+    "title": "실선 스케일 KCS의 수치해석에 관한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2019,
+    "title": "공기 윤활 시스템의 마찰 항력 감소 예측을 위한 수치해석 시 Eulerian Multi-Phase Model의 변수들에 대한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2019,
+    "title": "코안다 효과를 접목한 3차원 수중익의 양항력 성능과 캐비테이션에 대한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2019,
+    "title": "파랑 중 프로펠러의 침수 깊이와 상하 운동에 따른 성능 변화에 대한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2019,
+    "title": "액화 천연 가스 2상 유동의 유동해석을 통한 직각 곡배관 최적 설계를 위한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2019,
+    "title": "CFD를 활용한 모형선용 난류촉진장치의 형상에 따른 효과의 고찰과 적정한 부착위치의 선정에 관한 공동연구 : 몰수체 주위 유동 사례",
+    "venue": "춘계 KTTC Workshop"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "선박 측면 파공에서의 기름 유출 방지를 위해 설계된 앵커형 봉쇄장치의 유동 해석",
+    "venue": "한국해양공학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "성층화된 유체 내에서 내부파와 표면파의 파형 변화에 관한 수치적 연구",
+    "venue": "한국해양공학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "CFD를 이용한 직렬배열 상태의 2개의 원형 실린더에 대해 진자운동을 하는 시스템에 대한 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "정수 중 프로펠러의 상하 동요에 따른 성능 변화에 관한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "선수 규칙파 중 선박의 주기적 거동을 고려한 KVLCC2 모형선의 공칭반류 및 자항성능에 관한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "KCS의 모형선 및 실선의 유동 및 자유수면 특성에 관한 수치적 비교",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "모형선과 실선에서 공기 윤활 시스템의 저항감소 효과와 공기층 거동 및 분사구 영향에 관한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "선수규칙파 중 선박의 주기적 거동을 고려한 KVLCC2 프로펠러의 성능 변화에 관한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "코안다 효과를 접목한 수중익의 형상 및 성능에 대한 수치적 해석",
+    "venue": "제10회 한국유체공학학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "OpenFOAM을 이용한 EOM 기반 2차원 수치 파 생성에 관한 파라메트릭 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "자유수면 아래에서 작동하는 경사진 프로펠러의 성능에 관한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "해수 유출입 시스템을 적용한 ballast-free 선형의 저항 성능에 관한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "파랑 중 침수 깊이에 따른 프로펠러 성능 변화에 대한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "규칙파 중 수직운동을 고려한 KVLCC2의 공칭반류에 대한 수치적 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "VOF 및 mixture 방법에 따른 복층 유체 내 2차원 수중익에 의한 자유수면의 유동해석 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "해양 밀도층에서의 방사파 전파 특성 고찰",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "다양한 수직방향 무게중심을 고려한 사항 중 탱커 선체에 작용하는 유체력에 관한 연구",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2018,
+    "title": "자유수면에 의한 프로펠러 단독성능 변화에 관한 실험적 연구",
+    "venue": "춘계 KTTC Workshop"
+  },
+  {
+    "type": "domestic",
+    "year": 2017,
+    "title": "평판에서의 공기층 분기에 대한 수치적 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2017,
+    "title": "Bollard 조건에서의 부분 침수 프로펠러 성능에 대한 수치해석",
+    "venue": "STAR Korean Conference"
+  },
+  {
+    "type": "domestic",
+    "year": 2017,
+    "title": "부분침수 프로펠러의 침수깊이 변화에 대한 수치 해석",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2017,
+    "title": "프로펠러 축척에 따른 프로펠러와 자유수면의 상호작용에 대한 수치적 연구 해석",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2017,
+    "title": "프로펠러 모형의 ITTC 표준과 KTTC 표준",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2017,
+    "title": "프로펠러의 3-D 모델링과 모형의 정도",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  },
+  {
+    "type": "domestic",
+    "year": 2016,
+    "title": "자유수면 근처에서 작동하는 프로펠러의 성능에 관한 수치 연구",
+    "venue": "대한조선학회"
+  },
+  {
+    "type": "domestic",
+    "year": 2016,
+    "title": "선박 평형수의 순환 성능에 대한 연구",
+    "venue": "하계 선박해양설계 연구발표회"
+  },
+  {
+    "type": "domestic",
+    "year": 2016,
+    "title": "중첩 격자계와 morphing기법을 사용한 유체-구조 연성 결과 분석",
+    "venue": "한국해양과학기술협의회 공동학술대회"
+  }
+]

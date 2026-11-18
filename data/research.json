@@ -1,0 +1,70 @@
+{
+  "fields": [
+    {
+      "id": "Ship-Resistance--Self-Propulsion",
+      "title": "Ship Resistance & Self Propulsion",
+      "text": "",
+      "images": [
+        "assets/img/research/fields/Ship-Resistance--Self-Propulsion/183---프레젠테이션4.mp4"
+      ]
+    },
+    {
+      "id": "Propeller-Analysis",
+      "title": "Propeller Analysis",
+      "text": "",
+      "images": [
+        "assets/img/research/fields/Propeller-Analysis/프로펠러.webp"
+      ]
+    },
+    {
+      "id": "Multiphase-Flow",
+      "title": "Multiphase Flow",
+      "text": "",
+      "images": [
+        "assets/img/research/fields/Multiphase-Flow/슬라이드5.webp"
+      ]
+    },
+    {
+      "id": "Cavitation",
+      "title": "Cavitation",
+      "text": "",
+      "images": [
+        "assets/img/research/fields/Cavitation/슬라이드3.webp"
+      ]
+    },
+    {
+      "id": "Submarine",
+      "title": "Submarine",
+      "text": "",
+      "images": [
+        "assets/img/research/fields/Submarine/통합-연구소개_주한수정.webp"
+      ]
+    },
+    {
+      "id": "Vortex-Induced-Vibration",
+      "title": "Vortex Induced Vibration",
+      "text": "",
+      "images": [
+        "assets/img/research/fields/Vortex-Induced-Vibration/슬라이드2.webp"
+      ]
+    }
+  ],
+  "facilities": [
+    {
+      "id": "Facilities-of-IUTT",
+      "title": "Facilities of IUTT",
+      "text": "",
+      "images": [
+        "assets/img/research/facilities/Facilities-of-IUTT/199---IUTT_vidio_고화질.mp4"
+      ]
+    },
+    {
+      "id": "Measuring-Equipment--HPC",
+      "title": "Measuring Equipment & HPC",
+      "text": "",
+      "images": [
+        "assets/img/research/facilities/Measuring-Equipment--HPC/Measuring-equipment.webp"
+      ]
+    }
+  ]
+}

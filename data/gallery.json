@@ -1,0 +1,2481 @@
+{
+  "conference": [
+    {
+      "id": "2026-11-추계-대한조선학회",
+      "title": "추계 대한조선학회",
+      "date": "2026-11",
+      "year": 2026,
+      "cover": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/1_단체_학회장앞.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "정수아",
+              "title": "\"대리모델 기반 상반 회전 프로펠러의 최적 회전수비 및 피치비 결정에 관한 연구\""
+            },
+            {
+              "name": "안재현",
+              "title": "\"Numerical Friction Line을 활용한 K-SUPRAMAX 선형의 트랜섬 침수에 따른 형상계수의 스케일 효과 연구\""
+            },
+            {
+              "name": "강지민",
+              "title": "\"빙폐색 조건에서 프로펠러의 유체력 특성에 관한 수치적 연구\""
+            },
+            {
+              "name": "조희원",
+              "title": "\"DARPA SUBOFF 잠수함의 축척효과에 따른 유동장 변화와 저항 외삽에 관한 연구\""
+            },
+            {
+              "name": "이윤혜",
+              "title": "\"편류각 변화와 부가물 유무에 따른 DARPA SUBOFF 잠수함의 유체력 계수 및 유동장 특성 비교\""
+            },
+            {
+              "name": "최준영",
+              "title": "\"개선된 Body Force를 이용한 상반회전 프로펠러의 추진 성능 예측에 관한 수치적 연구\""
+            },
+            {
+              "name": "박준성",
+              "title": "\"2차원 플래핑 수중익의 유체역학적 특성에 대한 수치해석 연구\""
+            },
+            {
+              "name": "고지완",
+              "title": "\"기포 동역학 기반 TVC 소음 예측 기법 개발\""
+            },
+            {
+              "name": "강태빈",
+              "title": "\"선미 벌브형 부가물 적용에 따른 선박의 저항 및 추진성능에 관한 수치적 연구\""
+            }
+          ],
+          "count": 9
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/1_단체_학회장앞.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/1_단체_학회장앞.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/강태빈-발표사진3.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/강태빈-발표사진3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/강태빈_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/강태빈_발표사진.webp",
+          "w": 1600,
+          "h": 987
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/강태빈_발표사진2.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/강태빈_발표사진2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/고지완_발표.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/고지완_발표.webp",
+          "w": 1400,
+          "h": 1050
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/고지완_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/고지완_발표사진.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/고지완_발표사진2.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/고지완_발표사진2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/박준성_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/박준성_발표사진.webp",
+          "w": 1400,
+          "h": 1050
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/안재현_발표.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/안재현_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/안재현_발표2.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/안재현_발표2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/안재현_발표3.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/안재현_발표3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/정수아_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/정수아_발표사진.webp",
+          "w": 1400,
+          "h": 1050
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/조희원_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/조희원_발표사진.webp",
+          "w": 1400,
+          "h": 1050
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-11-추계-대한조선학회/thumb/최준영_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-11-추계-대한조선학회/full/최준영_발표사진.webp",
+          "w": 1400,
+          "h": 1050
+        }
+      ]
+    },
+    {
+      "id": "2026-10-G-NAOE2026",
+      "title": "G-NAOE2026",
+      "date": "2026-10",
+      "year": 2026,
+      "cover": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/1_단체_Texas567.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "Houston, USA"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "조희원",
+              "title": "\"Numerical Analysis for Scale Effects and Resistance Extrapolation Methods of the DARPA SUBOFF Submarine\""
+            },
+            {
+              "name": "이윤혜",
+              "title": "\"Maneuvering performance of DARPA SUBOFF using a mathematical model and CFD\""
+            },
+            {
+              "name": "박준성",
+              "title": "\"Numerical Investigation of Wake Vortex Dynamics in Flapping Hydrofoil with Two-Dimensional Motion\""
+            },
+            {
+              "name": "고지완",
+              "title": "\"Development of a TVC Noise Prediction Method Based on Bubble Dynamics\""
+            }
+          ],
+          "count": 4
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/1_단체_Texas567.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/1_단체_Texas567.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/Welcome-reception-(2).webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/Welcome-reception-(2).webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/Welcome-reception-(6).webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/Welcome-reception-(6).webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/Welcome-reception-(7).webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/Welcome-reception-(7).webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/Welcome-reception-(8).webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/Welcome-reception-(8).webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/고지완_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/고지완_발표사진.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/고지완_발표사진2.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/고지완_발표사진2.webp",
+          "w": 1411,
+          "h": 1058
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/고지완_수상.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/고지완_수상.webp",
+          "w": 1058,
+          "h": 1411
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/고지완_수상2.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/고지완_수상2.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/고지완_수상3.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/고지완_수상3.webp",
+          "w": 1411,
+          "h": 1058
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/단체_Taste-of-Texas.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/단체_Taste-of-Texas.webp",
+          "w": 1428,
+          "h": 804
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/단체_Texas567(2).webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/단체_Texas567(2).webp",
+          "w": 1428,
+          "h": 804
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/단체_Texas567(3).webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/단체_Texas567(3).webp",
+          "w": 1428,
+          "h": 804
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/단체_Truth-BBQ.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/단체_Truth-BBQ.webp",
+          "w": 1058,
+          "h": 1411
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/단체_학회장홀.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/단체_학회장홀.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/박준성_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/박준성_발표사진.webp",
+          "w": 1400,
+          "h": 1050
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/박준성_발표사진2.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/박준성_발표사진2.webp",
+          "w": 1400,
+          "h": 1050
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/박준성_발표사진3.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/박준성_발표사진3.webp",
+          "w": 1400,
+          "h": 1050
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/박준성_수상.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/박준성_수상.webp",
+          "w": 1050,
+          "h": 1400
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/박준성_수상2.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/박준성_수상2.webp",
+          "w": 1411,
+          "h": 1058
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/이윤혜_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/이윤혜_발표사진.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/이윤혜_발표사진2.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/이윤혜_발표사진2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/전체_학회장홀.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/전체_학회장홀.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/전체_학회장홀2.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/전체_학회장홀2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-10-G-NAOE2026/thumb/조희원_발표사진.webp",
+          "full": "assets/img/gallery/conference/2026-10-G-NAOE2026/full/조희원_발표사진.webp",
+          "w": 1411,
+          "h": 1058
+        }
+      ]
+    },
+    {
+      "id": "2026-07-SMP",
+      "title": "SMP",
+      "date": "2026-07",
+      "year": 2026,
+      "cover": "assets/img/gallery/conference/2026-07-SMP/thumb/1_단체_학회장.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "정수아",
+              "title": "\"Surrogate Model Based Analysis of Rotational Speed Ratio Effects on the Propulsive Performance of Contra-Rotating Propeller Systems\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2026-07-SMP/thumb/1_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2026-07-SMP/full/1_단체_학회장.webp",
+          "w": 946,
+          "h": 1245
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-07-SMP/thumb/단체_학회장2.webp",
+          "full": "assets/img/gallery/conference/2026-07-SMP/full/단체_학회장2.webp",
+          "w": 964,
+          "h": 1259
+        }
+      ]
+    },
+    {
+      "id": "2026-05-춘계-공동학술대회",
+      "title": "춘계 공동학술대회",
+      "date": "2026-05",
+      "year": 2026,
+      "cover": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/1_단체사진1.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "정수아",
+              "title": "\"예측모델을 활용한 CRP 최적 회전비 도출 및 추진효율 분석\""
+            },
+            {
+              "name": "안재현",
+              "title": "\"Numerical Friction Line을 활용한 K-SUPRAMAX 선형의 트랜섬 침수에 따른 형상계수의 스케일 효과 연구\""
+            },
+            {
+              "name": "김준환",
+              "title": "\"잠수함 선회 및 프로펠러 후류에 따른 TAS 케이블 거동 특성에 관한 수치적 연구\""
+            },
+            {
+              "name": "이호원",
+              "title": "\"감압 환경 내 축소모형 수중발사체의 사출 조건 변화에 따른 거동 및 유동 특성에 관한 수치적 연구\""
+            },
+            {
+              "name": "이윤혜",
+              "title": "\"편류각 변화와 부가물 유무에 따른 DARPA SUBOFF 잠수함의 유체력 계수 및 유동장 특성 비교\""
+            },
+            {
+              "name": "조희원",
+              "title": "\"DARPA SUBOFF 잠수함의 축척효과에 따른 유동장 변화와 저항 외삽에 관한 연구\""
+            },
+            {
+              "name": "최준영",
+              "title": "\"자유수면 조건에서 침수심에 따른 상반회전 프로펠러의 성능에 관한 수치적 연구\""
+            },
+            {
+              "name": "김준영",
+              "title": "\"기포 동역학 기반 TVC 소음 예측 기법 개발\""
+            }
+          ],
+          "count": 8
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/1_단체사진1.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/1_단체사진1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/김준영-발표.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/김준영-발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/김준환-발표.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/김준환-발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/단체사진2.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/단체사진2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/단체사진3.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/단체사진3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/단체사진4.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/단체사진4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/발사체-발표.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/발사체-발표.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/안재현-발표.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/안재현-발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/이윤혜-발표.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/이윤혜-발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/정수아발표1.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/정수아발표1.webp",
+          "w": 900,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/정수아발표2.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/정수아발표2.webp",
+          "w": 900,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/정수아발표3.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/정수아발표3.webp",
+          "w": 900,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/정수아발표4.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/정수아발표4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/조희원-발표.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/조희원-발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/thumb/최준영-발표.webp",
+          "full": "assets/img/gallery/conference/2026-05-춘계-공동학술대회/full/최준영-발표.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2026-04-한국수산해양기술학회",
+      "title": "한국수산해양기술학회",
+      "date": "2026-04",
+      "year": 2026,
+      "cover": "assets/img/gallery/conference/2026-04-한국수산해양기술학회/thumb/1_안재현_발표.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "안재현",
+              "title": "\"소형 연안어선 선형 설계 자동화 구축 방법에 대한 연구\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2026-04-한국수산해양기술학회/thumb/1_안재현_발표.webp",
+          "full": "assets/img/gallery/conference/2026-04-한국수산해양기술학회/full/1_안재현_발표.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2026-02-선박유체연구회",
+      "title": "선박유체연구회",
+      "date": "2026-02",
+      "year": 2026,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "유병우",
+              "title": "\"기포 동역학 기반 CIS 판정 및 CFD를 이용한 소음 예측\""
+            },
+            {
+              "name": "이호원",
+              "title": "\"플랫폼 이동속도에 따른 수중발사체 거동 및 유동 특성에 대한 수치적 연구\""
+            }
+          ],
+          "count": 2
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2025-12-PAAMES",
+      "title": "PAAMES",
+      "date": "2025-12",
+      "year": 2025,
+      "cover": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_162956449.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "엄성진",
+              "title": "\"A Numerical Study on Geometry of Propeller Using the Coanda Effect\""
+            },
+            {
+              "name": "김준환",
+              "title": "\"A Numerical Study on the Dynamic Motion of a Sonar Cable in a Submarine Affected by Propeller Wake\""
+            },
+            {
+              "name": "이호원",
+              "title": "\"A numerical study on the trajectory characteristics of an underwater projectile under varying platform velocity\""
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_162956449.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_162956449.webp",
+          "w": 1600,
+          "h": 1066
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_162956449_01.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_162956449_01.webp",
+          "w": 1600,
+          "h": 1066
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_162956449_02.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_162956449_02.webp",
+          "w": 1600,
+          "h": 1066
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_162956449_03.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_162956449_03.webp",
+          "w": 1600,
+          "h": 1066
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_162956449_04.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_162956449_04.webp",
+          "w": 1600,
+          "h": 1066
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_163153835.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_163153835.webp",
+          "w": 1600,
+          "h": 1066
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_163153835_01.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_163153835_01.webp",
+          "w": 1600,
+          "h": 1066
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_163153835_02.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_163153835_02.webp",
+          "w": 1600,
+          "h": 1066
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_163338386.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_163338386.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/KakaoTalk_20251224_163338386_01.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/KakaoTalk_20251224_163338386_01.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/기무준환.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/기무준환.webp",
+          "w": 1050,
+          "h": 1400
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/다같이.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/다같이.webp",
+          "w": 1428,
+          "h": 804
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/엄성진.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/엄성진.webp",
+          "w": 1050,
+          "h": 1400
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-12-PAAMES/thumb/이호원.webp",
+          "full": "assets/img/gallery/conference/2025-12-PAAMES/full/이호원.webp",
+          "w": 1411,
+          "h": 1058
+        }
+      ]
+    },
+    {
+      "id": "2025-11-추계-대한조선학회",
+      "title": "추계 대한조선학회",
+      "date": "2025-11",
+      "year": 2025,
+      "cover": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251113_122147713.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "정수아",
+              "title": "\"LES 모델을 활용한 상반회전프로펠러 유동 및 와류 특성 분석\""
+            },
+            {
+              "name": "안재현",
+              "title": "\"저속 조건에서의 선수 규칙파 중 실선 K-SUPRAMAX 선형의 자항 성능 추정 연구\""
+            },
+            {
+              "name": "유병우",
+              "title": "\"기포 동역학 기반 CIS 판정 및 CFD를 이용한 소음 예측 기법 개발\""
+            },
+            {
+              "name": "엄성진",
+              "title": "\"코안다 효과를 이용한 프로펠러 형상에 대한 수치적 연구\""
+            },
+            {
+              "name": "이호원",
+              "title": "\"플랫폼 이동속도에 따른 수중발사체 거동 및 유동 특성에 대한 수치적 연구\""
+            }
+          ],
+          "count": 5
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251113_122147713.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251113_122147713.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251118_123234648.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251118_123234648.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251118_123234648_01.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251118_123234648_01.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251118_123234648_02.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251118_123234648_02.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251118_123234648_03.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251118_123234648_03.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251118_123234648_04.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251118_123234648_04.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251118_123234648_05.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251118_123234648_05.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251118_123234648_06.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251118_123234648_06.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251119_190412569.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251119_190412569.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251119_192842233_01.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251119_192842233_01.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251119_192842233_02.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251119_192842233_02.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251119_192842233_03.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251119_192842233_03.webp",
+          "w": 1411,
+          "h": 1058
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251123_180038823_01.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251123_180038823_01.webp",
+          "w": 1600,
+          "h": 1029
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251123_180038823_02.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251123_180038823_02.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251123_180038823_03.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251123_180038823_03.webp",
+          "w": 1600,
+          "h": 1247
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251123_180038823_04.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251123_180038823_04.webp",
+          "w": 1600,
+          "h": 1187
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251123_180038823_05.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251123_180038823_05.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-11-추계-대한조선학회/thumb/KakaoTalk_20251123_180038823_06.webp",
+          "full": "assets/img/gallery/conference/2025-11-추계-대한조선학회/full/KakaoTalk_20251123_180038823_06.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2025-10-PRADS",
+      "title": "PRADS",
+      "date": "2025-10",
+      "year": 2025,
+      "cover": "assets/img/gallery/conference/2025-10-PRADS/thumb/0_단체_학회장.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "Practical Design of Ships"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "정수아",
+              "title": "\"Analysis of Wake Characteristics for Contra-Rotating Propellers by CFD\""
+            },
+            {
+              "name": "안재현",
+              "title": "\"Numerical Analysis of Scale Effects on Resistance and Propulsion Performance of the K-SUPRAMAX in Low-Speed Condition\""
+            },
+            {
+              "name": "유병우",
+              "title": "\"Numerical study on noise prediction and CIS determination using CFD\""
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2025-10-PRADS/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2025-10-PRADS/full/0_단체_학회장.webp",
+          "w": 1435,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-10-PRADS/thumb/1_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2025-10-PRADS/full/1_단체_학회장.webp",
+          "w": 1435,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-10-PRADS/thumb/2_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2025-10-PRADS/full/2_단체_학회장.webp",
+          "w": 1435,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-10-PRADS/thumb/3_정수아_발표.webp",
+          "full": "assets/img/gallery/conference/2025-10-PRADS/full/3_정수아_발표.webp",
+          "w": 1400,
+          "h": 1050
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-10-PRADS/thumb/4_안재현_발표.webp",
+          "full": "assets/img/gallery/conference/2025-10-PRADS/full/4_안재현_발표.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-10-PRADS/thumb/5_안재현_발표.webp",
+          "full": "assets/img/gallery/conference/2025-10-PRADS/full/5_안재현_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-10-PRADS/thumb/6_유병우_발표.webp",
+          "full": "assets/img/gallery/conference/2025-10-PRADS/full/6_유병우_발표.webp",
+          "w": 1435,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2025-08-선박해양유체연구회",
+      "title": "선박해양유체연구회",
+      "date": "2025-08",
+      "year": 2025,
+      "cover": "assets/img/gallery/conference/2025-08-선박해양유체연구회/thumb/0_이준희_발표.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이준희",
+              "title": "\"코안다 효과를 이용한 선박용 추진기의 성능 평가 방법 및 실용성 평가에 관한 연구\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2025-08-선박해양유체연구회/thumb/0_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2025-08-선박해양유체연구회/full/0_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-08-선박해양유체연구회/thumb/1_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2025-08-선박해양유체연구회/full/1_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2025-08-스마트전기선박연구회",
+      "title": "스마트전기선박연구회",
+      "date": "2025-08",
+      "year": 2025,
+      "cover": "assets/img/gallery/conference/2025-08-스마트전기선박연구회/thumb/0_유원준_발표.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "유원준",
+              "title": "\"UKF를 통한 확률적 선박 도메인 기반 실시간 충돌 회피 및 위험 평가\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2025-08-스마트전기선박연구회/thumb/0_유원준_발표.webp",
+          "full": "assets/img/gallery/conference/2025-08-스마트전기선박연구회/full/0_유원준_발표.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2025-05-한국해양과학기술협의회-공동학술대회",
+      "title": "한국해양과학기술협의회 공동학술대회",
+      "date": "2025-05",
+      "year": 2025,
+      "cover": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/0_단체_학회장.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이준희",
+              "title": "\"코안다 효과를 이용한 고효율 프로펠러의 자항 성능에 관한 연구\""
+            },
+            {
+              "name": "정수아",
+              "title": "\"CFD를 활용한 상반회전 프로펠러의 유동 및 와류 특성 분석\""
+            },
+            {
+              "name": "안재현",
+              "title": "\"저속 조건 중 축척효과를 고려한 실선 K-SUPRAMAX 선형의 자항 성능 추정 연구\""
+            },
+            {
+              "name": "유원준",
+              "title": "\"위치 불확실성을 고려한 선박 안전 영역 기반 충돌 회피 기법 연구\""
+            },
+            {
+              "name": "유병우",
+              "title": "\"CFD를 활용한 소음예측에 관한 수치적 연구\""
+            },
+            {
+              "name": "엄성진",
+              "title": "\"활주선 성능 분석을 통한 수치해석 기반 선속 추정에 대한 연구\""
+            }
+          ],
+          "count": 6
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/0_단체_학회장.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/1_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/1_이준희_발표.webp",
+          "w": 1400,
+          "h": 1050
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/2_안재현_발표.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/2_안재현_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/3_정수아_발표.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/3_정수아_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/4_유원준_발표.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/4_유원준_발표.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/5_유병우_발표.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/5_유병우_발표.webp",
+          "w": 1080,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/6_엄성진_발표.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/6_엄성진_발표.webp",
+          "w": 1080,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/7_김명민_수상.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/7_김명민_수상.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/8_이준희_수상.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/8_이준희_수상.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/thumb/9_단체_해운대.webp",
+          "full": "assets/img/gallery/conference/2025-05-한국해양과학기술협의회-공동학술대회/full/9_단체_해운대.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2024-12-HD한국조선해양-교류회",
+      "title": "HD한국조선해양 교류회",
+      "date": "2024-12",
+      "year": 2024,
+      "cover": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/0_단체_회의실.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "유원준",
+              "title": "\"AIS 데이터의 정보 지연을 고려한 실시간 충돌회피에 관한 연구\""
+            },
+            {
+              "name": "유병우",
+              "title": "\"잠수함 성능 평가를 위한 저항/추진 성능 CFD 해석 기법 비교\""
+            }
+          ],
+          "count": 2
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/0_단체_회의실.webp",
+          "full": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/full/0_단체_회의실.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/1_유병우_발표.webp",
+          "full": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/full/1_유병우_발표.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/2_유병우_발표.webp",
+          "full": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/full/2_유병우_발표.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/3_단체_회의실.webp",
+          "full": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/full/3_단체_회의실.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/4_단체_회의실.webp",
+          "full": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/full/4_단체_회의실.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/5_단체_회의실.webp",
+          "full": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/full/5_단체_회의실.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/6_단체_회의실.webp",
+          "full": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/full/6_단체_회의실.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/7_단체_회의실.webp",
+          "full": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/full/7_단체_회의실.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/thumb/8_단체_회의실.webp",
+          "full": "assets/img/gallery/conference/2024-12-HD한국조선해양-교류회/full/8_단체_회의실.webp",
+          "w": 1600,
+          "h": 901
+        }
+      ]
+    },
+    {
+      "id": "2024-11-G-NAOE",
+      "title": "G-NAOE",
+      "date": "2024-11",
+      "year": 2024,
+      "cover": "assets/img/gallery/conference/2024-11-G-NAOE/thumb/KakaoTalk_20241227_151042032.webp",
+      "info": [],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2024-11-G-NAOE/thumb/KakaoTalk_20241227_151042032.webp",
+          "full": "assets/img/gallery/conference/2024-11-G-NAOE/full/KakaoTalk_20241227_151042032.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-11-G-NAOE/thumb/KakaoTalk_20241227_151102847.webp",
+          "full": "assets/img/gallery/conference/2024-11-G-NAOE/full/KakaoTalk_20241227_151102847.webp",
+          "w": 1600,
+          "h": 900
+        }
+      ]
+    },
+    {
+      "id": "2024-11-추계-대한조선학회",
+      "title": "추계 대한조선학회",
+      "date": "2024-11",
+      "year": 2024,
+      "cover": "assets/img/gallery/conference/2024-11-추계-대한조선학회/thumb/0_단체_학회장.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "김명민",
+              "title": "\"K-supramax 선형의 저속 조건 중 자항 성능에 관한 수치적 연구\""
+            },
+            {
+              "name": "유원준",
+              "title": "\"AIS 데이터 기반 선박의 위치 불확실성을 고려한 실시간 충돌회피에 관한 연구\""
+            },
+            {
+              "name": "유병우",
+              "title": "\"CFD를 활용한 수중함의 소음 예측에 관한 수치적 연구\""
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2024-11-추계-대한조선학회/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2024-11-추계-대한조선학회/full/0_단체_학회장.webp",
+          "w": 1440,
+          "h": 1081
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-11-추계-대한조선학회/thumb/1_수상자_학회장.webp",
+          "full": "assets/img/gallery/conference/2024-11-추계-대한조선학회/full/1_수상자_학회장.webp",
+          "w": 1080,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-11-추계-대한조선학회/thumb/2_수상자_학회장.webp",
+          "full": "assets/img/gallery/conference/2024-11-추계-대한조선학회/full/2_수상자_학회장.webp",
+          "w": 1080,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-11-추계-대한조선학회/thumb/3_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2024-11-추계-대한조선학회/full/3_단체_학회장.webp",
+          "w": 1080,
+          "h": 1440
+        }
+      ]
+    },
+    {
+      "id": "2024-07-NCFE-한국유체공학-학술대회",
+      "title": "NCFE 한국유체공학 학술대회",
+      "date": "2024-07",
+      "year": 2024,
+      "cover": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/thumb/0_단체_학회장.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"실해역 조건을 고려한 선박의 파랑 중 부가저항 및 소요마력 추정에 관한 수치적 연구\""
+            },
+            {
+              "name": "이준희",
+              "title": "\"Coanda effect 기반 선박 추진 시스템 개발에 대한 수치적 연구\""
+            }
+          ],
+          "count": 2
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/full/0_단체_학회장.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/thumb/1_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/full/1_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/thumb/2_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/full/2_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/thumb/3_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/full/3_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/thumb/4_이순현_발표.webp",
+          "full": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/full/4_이순현_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/thumb/5_이순현_발표.webp",
+          "full": "assets/img/gallery/conference/2024-07-NCFE-한국유체공학-학술대회/full/5_이순현_발표.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2024-06-ISOPE",
+      "title": "ISOPE",
+      "date": "2024-06",
+      "year": 2024,
+      "cover": "assets/img/gallery/conference/2024-06-ISOPE/thumb/0_단체_학회장.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "김명민",
+              "title": "\"A numerical study on estimationg the minimum required power in adverse conditions considering short-crested irregular wave conditions\""
+            },
+            {
+              "name": "서무영",
+              "title": "\"A study on collision avoidance timing for autonomous ships using machine learning\""
+            }
+          ],
+          "count": 2
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2024-06-ISOPE/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2024-06-ISOPE/full/0_단체_학회장.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-06-ISOPE/thumb/1_서무영_발표.webp",
+          "full": "assets/img/gallery/conference/2024-06-ISOPE/full/1_서무영_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-06-ISOPE/thumb/2_김명민_발표.webp",
+          "full": "assets/img/gallery/conference/2024-06-ISOPE/full/2_김명민_발표.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2024-05-한국해양과학기술협의회-공동학술대회",
+      "title": "한국해양과학기술협의회 공동학술대회",
+      "date": "2024-05",
+      "year": 2024,
+      "cover": "assets/img/gallery/conference/2024-05-한국해양과학기술협의회-공동학술대회/thumb/0_단체_학회장.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"저속 조건에서의 불규칙파 중 부가저항 및 소요마력 추정에 관한 수치적 연구\""
+            },
+            {
+              "name": "이준희",
+              "title": "\"코안다 효과를 활용한 추진기의 캐비테이션 특성에 관한 수치적 연구\""
+            },
+            {
+              "name": "전제형",
+              "title": "\"어선의 저항성능 향상을 위한 차인 설계 및 특성에 관한 연구\""
+            },
+            {
+              "name": "류시진",
+              "title": "\"휘발성 연료 증기 배출 시나리오에 대한 선상 영향 평가\""
+            },
+            {
+              "name": "서무영",
+              "title": "\"기계학습을 통한 자율운항선박의 최적 회피 시점에 관한 연구\""
+            },
+            {
+              "name": "김준환",
+              "title": "\"고온, 고압 배관의 형상에 따른 온도와 압력에 대한 수치적 연구\""
+            }
+          ],
+          "count": 6
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2024-05-한국해양과학기술협의회-공동학술대회/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2024-05-한국해양과학기술협의회-공동학술대회/full/0_단체_학회장.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-05-한국해양과학기술협의회-공동학술대회/thumb/1_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2024-05-한국해양과학기술협의회-공동학술대회/full/1_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2024-02-선박해양유체연구회",
+      "title": "선박해양유체연구회",
+      "date": "2024-02",
+      "year": 2024,
+      "cover": "assets/img/gallery/conference/2024-02-선박해양유체연구회/thumb/0_이준희_발표.webp",
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이준희",
+              "title": "\"코안다 효과 기반의 고효율 추진기 개발의 수치적 연구\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2024-02-선박해양유체연구회/thumb/0_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2024-02-선박해양유체연구회/full/0_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-02-선박해양유체연구회/thumb/1_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2024-02-선박해양유체연구회/full/1_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2024-02-선박해양유체연구회/thumb/2_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2024-02-선박해양유체연구회/full/2_이준희_발표.webp",
+          "w": 1600,
+          "h": 900
+        }
+      ]
+    },
+    {
+      "id": "2023-11-추계-대한조선학회",
+      "title": "추계 대한조선학회",
+      "date": "2023-11",
+      "year": 2023,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"Short-crested irregular wave 중 K-Supramax 선형의 소요마력 추정에 관한 수치적 연구\""
+            },
+            {
+              "name": "이준희",
+              "title": "\"코안다 효과를 이용한 프로펠러의 블레이드 형상에 대한 파라메트릭 연구\""
+            },
+            {
+              "name": "김휘수",
+              "title": "\"자유 항주 조건에서 운항조건에 따른 PID제어 게인 특징에 관한 연구\""
+            },
+            {
+              "name": "황보준",
+              "title": "\"연안소형어선의 선\u0000미 부가물에 따른 자항 성능 추정에 관한 수치적 연구\""
+            },
+            {
+              "name": "현여진",
+              "title": "\"캐비테이션 저감을 위한 프로펠러 회전속도 제어 기법에 대한 연구\""
+            },
+            {
+              "name": "서무영",
+              "title": "\"AIS 데이터 머신 러닝을 통한 자율운항선박의 충돌회피 시점에 관한 연구\""
+            }
+          ],
+          "count": 6
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2023-10-PAAMES-AMEC",
+      "title": "PAAMES-AMEC",
+      "date": "2023-10",
+      "year": 2023,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "일본 교토"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"A comparative study on the added resistance and motion RAOs of commercial ship in regular and irregular wave conditions\""
+            },
+            {
+              "name": "이준희",
+              "title": "\"A parametric study on the blade geometry for a Coanda propeller\""
+            },
+            {
+              "name": "현여진",
+              "title": "\"A study on the control method of rotational speed to reduce the thrust fluctuation of a marine propeller\""
+            },
+            {
+              "name": "서무영",
+              "title": "\"Collision Avoidance System with rule-based Velocity Obstacle Method using Collision Risk Index\""
+            }
+          ],
+          "count": 4
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2023-05-한국해양과학기술협의회-공동학술대회",
+      "title": "한국해양과학기술협의회 공동학술대회",
+      "date": "2023-05",
+      "year": 2023,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"다양한 선수각에 따른 KCS 선형의 규칙 사파 중 부가저항 성능에 관한 수치적 연구\""
+            },
+            {
+              "name": "이준희",
+              "title": "\"K-SUPRAMAX선형의 규칙파 중 바람에 의한 소요마력 추정에 관한 수치적 연구\""
+            },
+            {
+              "name": "황보준",
+              "title": "\"4.99톤급 연안어선의 다양한 제원변화에 따른 저항성능에 관한 연구\""
+            },
+            {
+              "name": "이형민",
+              "title": "\"형상에 따른 배관 내부 유체의 열전달에 관한 수치적 연구\""
+            }
+          ],
+          "count": 4
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2023-02-선박해양유체연구회",
+      "title": "선박해양유체연구회",
+      "date": "2023-02",
+      "year": 2023,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"구속조건에 따른 SVLCC 선형의 규칙 및 불규칙 사파 중 부가저항 및 유체성능 비교 분석\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2022-11-G-NAOE",
+      "title": "G-NAOE",
+      "date": "2022-11",
+      "year": 2022,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"A Numerical study of tanker resistance performance\""
+            },
+            {
+              "name": "이준희",
+              "title": "\"A numerical study on the motion and load of unit type floating solar power farm under the real sea area\""
+            }
+          ],
+          "count": 2
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2022-11-대한조선학회-추계학술대회",
+      "title": "대한조선학회 추계학술대회",
+      "date": "2022-11",
+      "year": 2022,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"K-Supramax 선형의 규칙파 중 자항 성능에 관한 수치적 연구\""
+            },
+            {
+              "name": "이준희",
+              "title": "\"대기경계층을 고려한 K-SUPRAMAX 선형의 풍하중 추정에 관한 수치적 연구\""
+            },
+            {
+              "name": "김구현",
+              "title": "\"위성데이터를 이용한 항로 추정의 실선 결과와 비교\""
+            },
+            {
+              "name": "이동훈",
+              "title": "\"자율운항선박의 다수 선박 회피를 위한 도메인 기반 충돌 위험도 지수에 관한 연구\""
+            },
+            {
+              "name": "김대웅",
+              "title": "\"엑터-크리틱 기법을 활용한 선박 충동 회피 알고리즘의 개발\""
+            },
+            {
+              "name": "황보준",
+              "title": "\"4.99톤급 연안어선의 저항성능 최적화 선형 설계를 위한 수치적, 실험적 연구\""
+            },
+            {
+              "name": "현여진",
+              "title": "\"프로펠러 추력변동 저감을 위한 회전 속도 제어 기법 연구\""
+            }
+          ],
+          "count": 7
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2022-10-PRADS",
+      "title": "PRADS",
+      "date": "2022-10",
+      "year": 2022,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Practical Design of Ships"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"A study on the added resistance performance in various regular waves and irregular waves using URANS solver\""
+            },
+            {
+              "name": "이준희",
+              "title": "\"An Experiment and numerical study on the characteristics of motion and load for floating solar power farm in regular waves\""
+            },
+            {
+              "name": "현여진",
+              "title": "\"Proposal for a control method to reduce propeller vibration through harmonic injection of motor\""
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2022-06-한국해양과학기술협의회-공동학술대회",
+      "title": "한국해양과학기술협의회 공동학술대회",
+      "date": "2022-06",
+      "year": 2022,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"수치해석을 이용한 자유 항주 KVLCC2 선형의 규칙파 중 부가저항 성능 추정에 관한 연구\""
+            },
+            {
+              "name": "이준희",
+              "title": "\"실해역에서 단위형 부유식 태양광 거동 및 하중에 관한 수치적 연구\""
+            },
+            {
+              "name": "이동훈",
+              "title": "\"충돌 위험도 지표 및 속도 장애물 기법을 이용한 선박 충돌 회피 통합 시뮬레이션 시스템의 개발\""
+            },
+            {
+              "name": "조준희",
+              "title": "\"불규칙 선수 사파 중 선박의 부가저항 및 운동응답에 대한 연구\""
+            },
+            {
+              "name": "김휘수",
+              "title": "\"AMR(Automatic Mesh Refinement)을 활용한 선박의 저항 및 운동성능 계측을 위한 수치해석 연구\""
+            }
+          ],
+          "count": 5
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2021-11-대한조선학회-추계학술대회",
+      "title": "대한조선학회 추계학술대회",
+      "date": "2021-11",
+      "year": 2021,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "김구현",
+              "title": "\"구속조건에 따른 K-Supramax 선형의 규칙파 중 수치해석에 관한 연구\""
+            },
+            {
+              "name": "",
+              "title": "\"위성데이터를 이용한 북극해 최적 항로 결정에 관한 연구\""
+            },
+            {
+              "name": "이동훈",
+              "title": "\"선박 항해사의 의식이 반영된 선박 충동 위험도 평가 모델의 개발\""
+            },
+            {
+              "name": "조준희",
+              "title": "\"Soft spring system을 이용한 선수 사파 중 선박의 부가저항 및 운동응답에 대한 수치적 연구\""
+            },
+            {
+              "name": "김휘수",
+              "title": "\"자유 수면과의 상호작용을 고려한 가상체적법 개발에 관한 연구\""
+            }
+          ],
+          "count": 4
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2021-10-한국해양공학회-추계학술대회",
+      "title": "한국해양공학회 추계학술대회",
+      "date": "2021-10",
+      "year": 2021,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이준희",
+              "title": "\"파랑 중 수상태양광 운동 및 하중 특성에 관한 연구\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2021-05-한국해양과학기술협의회-공동학술대회",
+      "title": "한국해양과학기술협의회 공동학술대회",
+      "date": "2021-05",
+      "year": 2021,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"Wake dynamics of a 3D curved cylinder in oblique flows\", 미래해양과학기술인상 수상"
+            },
+            {
+              "name": "현여진",
+              "title": "\"친환경 선박의 상용화를 위한 융복합적 연구 계획\", 미래해양과학기술인상 특별상 수상"
+            },
+            {
+              "name": "황홍식",
+              "title": "\"수치해석을 이용한 Tip Vortex Cavitaion 유동 및 소음특성에 관한 연구\""
+            },
+            {
+              "name": "이주한",
+              "title": "\"코안다 효과를 이용한 단순 형상 프로펠러의 분사구 형상 최적화에 대한 수치적 연구\""
+            },
+            {
+              "name": "조준희",
+              "title": "\"RANS Solver를 활용한 불규칙파 생성 방법에 관한 수치적 연구\""
+            }
+          ],
+          "count": 5
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2020-11-추계-대한조선학회",
+      "title": "추계 대한조선학회",
+      "date": "2020-11",
+      "year": 2020,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"KVLCC2 선박의 파랑 중 유체성능 및 Sea state에 따른 소요마력 추정법에 관한 연구\""
+            },
+            {
+              "name": "이주한",
+              "title": "\"코안다 효과를 이용한 단순 형상 프로펠러의 성능 변화에 대한 실험 및 수치적 연구\""
+            },
+            {
+              "name": "이동훈",
+              "title": "\"소형 무인 선박의 GPS 추종 정확도 향상을 위한 알고리즘 개발\""
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2020-07-KAOSTS",
+      "title": "KAOSTS",
+      "date": "2020-07",
+      "year": 2020,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "The Korean Association of Ocean Science and Technology Societies"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "이순현",
+              "title": "\"A Study on the Estimation Method for the Required Power of a Ship in Irregular Waves using a RANS Solver\""
+            },
+            {
+              "name": "엄명진",
+              "title": "\"코안다 효과를 이용한 2차원 수중익의 양항력 성능에 대한 연구\""
+            },
+            {
+              "name": "하지연",
+              "title": "\"파랑 중 선박의 운동을 고려한 프로펠러의 성능 추정 기법에 대한 연구\""
+            },
+            {
+              "name": "김동영",
+              "title": "\"모형선의 공기 윤활 시스템을 이용한 자항 성능 변화에 관한 수치적 연구\""
+            },
+            {
+              "name": "황홍식",
+              "title": "\"FW-H를 이용한 Delft Twist 11 Hydrofoil의 진동 및 소음특성에 관한 수치적 연구\""
+            },
+            {
+              "name": "이주한",
+              "title": "\"CFD를 이용한 수중운동체 프로펠러의 난류항적 특성 연구\""
+            }
+          ],
+          "count": 6
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2020-02-WSOS",
+      "title": "WSOS",
+      "date": "2020-02",
+      "year": 2020,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Workshop on Ships and Offshore Structures"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "백광준",
+              "title": "\"A Study on the Estimation Method for the Required Power of a Shipin Irregular Waves using a RANS Solver\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2019-10-PRADS",
+      "title": "PRADS",
+      "date": "2019-10",
+      "year": 2019,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Practical Design of Ships"
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2019-10-추계-대한조선학회",
+      "title": "추계 대한조선학회",
+      "date": "2019-10",
+      "year": 2019,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "황홍식",
+              "title": "\"Delft Twist 11 Hydrofoil의 캐비테이션 시뮬레이션을 위한 수치해석 기법 연구\""
+            },
+            {
+              "name": "김동영",
+              "title": "\"모형선과 실선에서 공기 윤활 시스템을 이용한 저항 감소 효과에 관한 수치적 연구\""
+            },
+            {
+              "name": "하지연",
+              "title": "\"저 레이놀즈 수 영역에서의 전이 모델 사용에 따른 프로펠러 표면 유동에 대한 수치적 연구\""
+            },
+            {
+              "name": "김현표",
+              "title": "\"Jet Fire 에 노출된 Deluge 배관 내 유동으로 인한 냉각효과에 관한 연구\""
+            },
+            {
+              "name": "이순현",
+              "title": "\"유동 방향에 따른 3차원 굽은 실린더 주위 유동 해석\""
+            }
+          ],
+          "count": 5
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2019-07-EKC",
+      "title": "EKC",
+      "date": "2019-07",
+      "year": 2019,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Europe-Korea Conference"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "백광준",
+              "title": "\"A Numerical Study on the Effect of an Air Lubrication System for the Frictional Resistance Reduction of a Ship\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2019-07-SMP",
+      "title": "SMP",
+      "date": "2019-07",
+      "year": 2019,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Symposium on Marine Propulsors"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "장윤호",
+              "title": "\"A Numerical Study on the Propeller Performance by the Ship Motion in Regular Head Waves\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2019-05-KAOSTS",
+      "title": "KAOSTS",
+      "date": "2019-05",
+      "year": 2019,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "The Korean Association of Ocean Science and Technology Societies"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "권기형",
+              "title": "\"액화 천연 가스 2상 유동의 유동해석을 통한 직각 곡배관 최적 설계를 위한 연구\""
+            },
+            {
+              "name": "엄명진",
+              "title": "\"코안다 효과를 접목한 3차원 수중익의 양항력 성능과 캐비테이션에 대한 수치적 연구\""
+            },
+            {
+              "name": "",
+              "title": "\"파랑중 프로펠러의 침수 깊이와 상하 운동에 따른 성능 변화에 대한 수치적 연구\""
+            },
+            {
+              "name": "장윤호",
+              "title": "\"선수 규칙파 중 작동하는 KVLCC2 프로펠러의 성능 추정 방법에 대한 연구\""
+            },
+            {
+              "name": "김관우",
+              "title": "\"실선 스케일 KCS의 수치해석에 관한 연구\""
+            },
+            {
+              "name": "김동영",
+              "title": "\"공기 윤활 시스템의 마찰 항력 감소 예측을 위한 수치해석 시 Eulerian Muti-Phase Model의 변수들에 대한 연구\""
+            },
+            {
+              "name": "이주한",
+              "title": "\"성층화된 유체 내에서 기동하는 잠수체의 유동 특성 및 파형 변화에 관한 연구\""
+            }
+          ],
+          "count": 6
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2019-01-WSOS",
+      "title": "WSOS",
+      "date": "2019-01",
+      "year": 2019,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Workshop on Ships and Offshore Structures"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "백광준",
+              "title": "\"Numerical Study on the Interaction between Surface and Internal Waves in a Stratified Two-Layer Fluid\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-12-WMTC",
+      "title": "WMTC",
+      "date": "2018-12",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "World Maritime Technology Conference"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "신현우",
+              "title": "\"Numerical Study on the Self-Propulsion Performance of KVLCC2 Model Ship in Regular Head Waves\""
+            },
+            {
+              "name": "김관우",
+              "title": "\"Numerical Study on the Interaction between the Internal and Surface Waves by a Sphere Moving in a Two-Layer Stratified Fluid\""
+            }
+          ],
+          "count": 2
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-10-PAAMES",
+      "title": "PAAMES",
+      "date": "2018-10",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Pan-Asian Association of Maritime Engineering Societies"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "장윤호",
+              "title": "\"Numerical Study on the Open Water Performance of a Propeller\""
+            },
+            {
+              "name": "김동영",
+              "title": "\"Numerical Study on the Behavior of Air Layer for the Reduction of Frictional Resistance in a Model Ship\""
+            },
+            {
+              "name": "엄명진",
+              "title": "\"Numerical Study on the Open Water Performance of a Propeller Operating beneath Regular Wave\""
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-10-PACOMS",
+      "title": "PACOMS",
+      "date": "2018-10",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "ISOPE Pacific-Asia Offshore Mechanics Symposium"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "신현우",
+              "title": "\"Numerical Investigation on the Nominal Wake of KVLCC2 Modle Ship in Regular Head Waves\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-10-추계-대한조선학회",
+      "title": "추계 대한조선학회",
+      "date": "2018-10",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "추계 대한조선학회 + 추계 MT"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "장윤호",
+              "title": "\"선수규칙파 중 선박의 주기적 거동을 고려한 KVLCC2 프로펠러의 성능 변화에 관한 수치적 연구\""
+            },
+            {
+              "name": "김동영",
+              "title": "\"모형선과 실선에서 공기 윤활 시스템의 저항감소 효과와 공기층 거동 및 분사구 영향에 관한 수치적 연구\""
+            },
+            {
+              "name": "김관우",
+              "title": "\"KCS 모형선 및 실선의 유동 및 자유수면 특성에 관한 수치적 비교\""
+            },
+            {
+              "name": "신현우",
+              "title": "\"선수 규칙파 중 선박의 주기적 거동을 고려한 KVLCC2 모형선의 공칭반류 및 자항성능에 관한 수치적 연구\""
+            },
+            {
+              "name": "하지연",
+              "title": "\"정수 중 프로펠러의 상하 동요에 따른 성능 변화에 관한 수치적 연구\""
+            }
+          ],
+          "count": 5
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-10-한국해양공학회",
+      "title": "한국해양공학회",
+      "date": "2018-10",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "엄명진",
+              "title": "\"코안다 효과를 접목한 2차원 수중익의 양항력 성능과 캐비테이션에 대한 수치적 연구\""
+            },
+            {
+              "name": "김동영",
+              "title": "\"선박 측면 파공에서의 기름 유출 방지를 위해 설게된 앵커형 봉쇄장치의 유동해석\""
+            },
+            {
+              "name": "이주한",
+              "title": "\"성층화된 유체 내에서 내부파와 표면파의 파형 변화에 관한 수치적 연구\""
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-09-ICHD",
+      "title": "ICHD",
+      "date": "2018-09",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "International Conference on Hydrodynamics"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "김관우",
+              "title": "\"Numerical study of the interaction between the internal and surface waves by a 2D hydrofoil moving in tow-layer stratified fluid\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-08-EKC",
+      "title": "EKC",
+      "date": "2018-08",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Europe-Korea Conference"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "백광준",
+              "title": "\"A Study on the Performance of a Marine Propeller Operating in Waves\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-08-유체공학학술대회",
+      "title": "유체공학학술대회",
+      "date": "2018-08",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "엄명진",
+              "title": "\"코안다 효과를 접목한 수중익의 형상 및 성능에 대한 수치적 해석\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-05-KAOSTS",
+      "title": "KAOSTS",
+      "date": "2018-05",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "The Korean Association of Ocean Science and Technology Societies"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "신현우",
+              "title": "\"파랑 중 수직운동을 고려한 KVLCC2의 공칭반류에 대한 수치적 연구\""
+            },
+            {
+              "name": "장윤호",
+              "title": "\"자유수면 아래에서 작동하는 경사진 프로펠러의 성능에 관한 연구\""
+            },
+            {
+              "name": "엄명진",
+              "title": "\"파랑 중 침수 깊이에 따른 프로펠러 성능 변화에 대한 수치적 연구\""
+            },
+            {
+              "name": "이순현",
+              "title": "\"해수 유출입 시스템을 적용한 ballast-free 선형의 저항 성능에 관한 연구\""
+            },
+            {
+              "name": "김관우",
+              "title": "\"VOF 및 Eulerian 방법에 따른 2차원 수중익 주위 자유수면의 유동해석 비교연구\""
+            }
+          ],
+          "count": 5
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-02-WSOS",
+      "title": "WSOS",
+      "date": "2018-02",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Workshop on Ships and Offshore Structures"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "백광준",
+              "title": "\"A Numerical Study on an Air Layer for Reducing Frictional Resistance\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2017-11-IWSH",
+      "title": "IWSH",
+      "date": "2017-11",
+      "year": 2017,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "International Workshop on Ship and Marine Hydrodynamics"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "백광준",
+              "title": "\"Numerical Study on the Bifurcation Mechanism of Air Layer on a Flat Plate\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2017-11-추계-대한조선학회",
+      "title": "추계 대한조선학회",
+      "date": "2017-11",
+      "year": 2017,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "추계 대한조선학회 + 추계 MT"
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2017-09-ITTC",
+      "title": "ITTC",
+      "date": "2017-09",
+      "year": 2017,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "International Towing Tank Conference"
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2017-06-SMP",
+      "title": "SMP",
+      "date": "2017-06",
+      "year": 2017,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "Symposium on Marine Propulsors"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "백광준",
+              "title": "\"Numerical Study on the Performance of a Partially Submerged Propeller in Bollard Condition\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2017-04-KAOSTS",
+      "title": "KAOSTS",
+      "date": "2017-04",
+      "year": 2017,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "The Korean Association of Ocean Science and Technology Societies"
+        },
+        {
+          "label": "발표",
+          "items": [
+            {
+              "name": "백광준",
+              "title": "\"부분침수 프로펠러의 침수깊이 변화에 대한 수치 해석\""
+            },
+            {
+              "name": "",
+              "title": "\"프로펠러 축척에 따른 프로펠러와 자유수면의 상호작용에 대한 수치적 연구 해석\""
+            }
+          ],
+          "count": 1
+        }
+      ],
+      "photos": []
+    }
+  ],
+  "activity": [
+    {
+      "id": "2026-08-후기-졸업식",
+      "title": "후기 졸업식",
+      "date": "2026-08",
+      "year": 2026,
+      "cover": "assets/img/gallery/activity/2026-08-후기-졸업식/thumb/0_단체_현수막.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "고지완 (학사)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2026-08-후기-졸업식/thumb/0_단체_현수막.webp",
+          "full": "assets/img/gallery/activity/2026-08-후기-졸업식/full/0_단체_현수막.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2026-08-후기-졸업식/thumb/1_교수님_현수막.webp",
+          "full": "assets/img/gallery/activity/2026-08-후기-졸업식/full/1_교수님_현수막.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2026-08-후기-졸업식/thumb/2_교수님_466.webp",
+          "full": "assets/img/gallery/activity/2026-08-후기-졸업식/full/2_교수님_466.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2026-02-전기-졸업식",
+      "title": "전기 졸업식",
+      "date": "2026-02",
+      "year": 2026,
+      "cover": "assets/img/gallery/activity/2026-02-전기-졸업식/thumb/KakaoTalk_20260513_170929790_01.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "유원준, 유병우 (석사)"
+        },
+        {
+          "label": "",
+          "value": "강지민, 이윤혜, 조희원, 최준영, 김준영 (학사)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2026-02-전기-졸업식/thumb/KakaoTalk_20260513_170929790_01.webp",
+          "full": "assets/img/gallery/activity/2026-02-전기-졸업식/full/KakaoTalk_20260513_170929790_01.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2026-01-동계-MT",
+      "title": "동계 MT",
+      "date": "2026-01",
+      "year": 2026,
+      "cover": "assets/img/gallery/activity/2026-01-동계-MT/thumb/KakaoTalk_20260518_173533250.webp",
+      "info": [],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2026-01-동계-MT/thumb/KakaoTalk_20260518_173533250.webp",
+          "full": "assets/img/gallery/activity/2026-01-동계-MT/full/KakaoTalk_20260518_173533250.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    }
+  ]
+}

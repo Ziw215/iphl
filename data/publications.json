@@ -1,0 +1,450 @@
+[
+  {
+    "year": 2026,
+    "title": "OpenFOAM을 활용한 공개 선형 잠수함 저항 성능 해석",
+    "authors": "",
+    "venue": "한국항해항만학회지, Vol. 50, No. 1, pp. 18–25, 2026",
+    "link": ""
+  },
+  {
+    "year": 2026,
+    "title": "A numerical study on self-propulsion performance of the 66k DWT bulk carrier in low-speed calm water and regular wave conditions",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, Vol. 18, 2026",
+    "link": ""
+  },
+  {
+    "year": 2026,
+    "title": "A study on the avoidance timing of autonomous surface ships through machine learning",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, Vol. 18, 2026",
+    "link": ""
+  },
+  {
+    "year": 2025,
+    "title": "A numerical study on estimation of ship performance under actual sea conditions considering added resistance and power of various wave conditions",
+    "authors": "",
+    "venue": "Ocean Engineering, Vol. 340, 2025",
+    "link": ""
+  },
+  {
+    "year": 2025,
+    "title": "Development of Virtual Disk Method for Propeller Interacting with Free Surface",
+    "authors": "",
+    "venue": "Journal of Marine Science and Engineering, Vol. 13, No. 10, 2025",
+    "link": ""
+  },
+  {
+    "year": 2025,
+    "title": "Development of a Systematic Method for Tuning PID Control Gains in Free-Running Ship Simulations",
+    "authors": "",
+    "venue": "Journal of Marine Science and Engineering, Vol. 13, No. 9, 2025",
+    "link": ""
+  },
+  {
+    "year": 2025,
+    "title": "다수 무인선의 대형 유지와 충돌 회피를 위한 군집제어 알고리즘에 관한 연구",
+    "authors": "",
+    "venue": "대한조선학회 논문집, Vol. 62, No. 2, pp. 96–106, 2025",
+    "link": ""
+  },
+  {
+    "year": 2025,
+    "title": "A Numerical Study for the Self-Propulsion Performance of a Propulsion System Using the Coanda Effect",
+    "authors": "",
+    "venue": "Journal of Marine Science and Engineering, Vol. 13, No. 3, 2025",
+    "link": ""
+  },
+  {
+    "year": 2025,
+    "title": "A Study on Multi-ship Avoidance System for Unmanned Surface Vehicles Using the Quaternion Ship Domain and Collision Risk Index",
+    "authors": "",
+    "venue": "한국해양공학회지, Vol. 39, No. 1, pp. 103–121, 2025",
+    "link": ""
+  },
+  {
+    "year": 2024,
+    "title": "A suggestion for space harmonic injection into motor current to reduce propeller vibration",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, Vol. 16, 2024",
+    "link": ""
+  },
+  {
+    "year": 2024,
+    "title": "Vector Field Histogram과 Velocity Obstacle Method를 이용한 자율운항 선박의 충돌회피 알고리즘에 관한 연구",
+    "authors": "",
+    "venue": "한국방위산업학회지, Vol. 31, No. 2, pp. 133–145, 2024",
+    "link": ""
+  },
+  {
+    "year": 2025,
+    "title": "A numerical study of added resistance performance and hydrodynamics of KCS hull in oblique regular waves and estimation of resistance in short-crested irregular waves through spectral method",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, 2025",
+    "link": ""
+  },
+  {
+    "year": 2024,
+    "title": "A numerical study on the optimization of the slit shape of a jet injection propeller",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, 2024",
+    "link": ""
+  },
+  {
+    "year": 2024,
+    "title": "A numerical study on the feasibility of predicting the resistance of a full-scale ship using a virtual fluid",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, 2024",
+    "link": ""
+  },
+  {
+    "year": 2023,
+    "title": "A Numerical Study on the Performance of the 66k DWT Bulk Carrier in Regular and Irregular Waves",
+    "authors": "",
+    "venue": "Journal of Marine Science and Engineering, 2023",
+    "link": ""
+  },
+  {
+    "year": 2023,
+    "title": "A Numerical Study on the Hydrodynamic Performance of a Tanker in Bow Sea Conditions Depending on Restraint Conditions",
+    "authors": "",
+    "venue": "Journal of Marine Science and Engineering, 2023",
+    "link": ""
+  },
+  {
+    "year": 2023,
+    "title": "A numerical study on the added resistance and motion of a ship in bow quartering waves using a soft spring system",
+    "authors": "",
+    "venue": "Ocean Engineering, 2023",
+    "link": ""
+  },
+  {
+    "year": 2022,
+    "title": "A study on ship performance in waves using a RANS solver, part 2: Comparison of added resistance performance in various regular and irregular waves",
+    "authors": "",
+    "venue": "Ocean Engineering, 2022",
+    "link": ""
+  },
+  {
+    "year": 2022,
+    "title": "A numerical and experimental study on the obstacle collision avoidance system using a 2D LiDAR sensor for an autonomous surface vehicle",
+    "authors": "",
+    "venue": "Ocean Engineering, 2022",
+    "link": ""
+  },
+  {
+    "year": 2022,
+    "title": "A numerical study on self-propulsion performance in regular waves and power prediction in irregular waves",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, 2022",
+    "link": ""
+  },
+  {
+    "year": 2022,
+    "title": "Experimental and Numerical Study on the Characteristics of Motion and Load for a Floating Solar Power Farm under Regular Waves",
+    "authors": "",
+    "venue": "Journal of Marine Science and Engineering, 2022",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "A study on the efficient numerical analysis for the prediction of full-scale propeller performance using CFD",
+    "authors": "",
+    "venue": "Ocean Engineering, Vol. 240, pp. 1–10, 2021",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "Prediction of the ice resistance of icebreakers using explicit finite element analyses with a real-time load control technique",
+    "authors": "",
+    "venue": "Ocean Engineering, Vol. 240, pp. 1–10, 2021",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "A method for predicting propeller performance considering ship motion in regular waves",
+    "authors": "",
+    "venue": "Ocean Engineering, Vol. 232, pp. 1–12, 2021",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "A study on ship performance in waves using a RANS solver, part 1: Comparison of power prediction methods in regular waves",
+    "authors": "",
+    "venue": "Ocean Engineering, Vol. 227, pp. 1–16, 2021",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "Experimental and Numerical Study on the Performance Change of a Simple Propeller Shape Using the Coanda Effect",
+    "authors": "",
+    "venue": "Applied Sciences, Vol. 11, No. 9, pp. 1–27, 2021",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "A fluid-structure interaction simulation on the wake-induced vibration of tandem cylinders with pivoted rotational motion",
+    "authors": "",
+    "venue": "Physics of Fluids, Vol. 33, pp. 1–23, 2021",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "Numerical study on the interaction between the internal and surface waves by a 2D hydrofoil moving in two-layer stratified fluid",
+    "authors": "",
+    "venue": "Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment, Vol. 235, No. 2, pp. 480–490, 2021",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "A Study on the Performance Variation of a Three-Dimensional Hydrofoil Using Jet Flow",
+    "authors": "",
+    "venue": "한국해양공학회지, Vol. 35, No. 1, pp. 24–37, 2021",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "A study on the propeller open water performance due to immersion depth and regular wave",
+    "authors": "",
+    "venue": "Ocean Engineering, Vol. 219, 2021",
+    "link": ""
+  },
+  {
+    "year": 2021,
+    "title": "Numerical Study on the Vibration and Noise Characteristics of a Delft Twist11 Hydrofoil",
+    "authors": "",
+    "venue": "Journal of Marine Science and Engineering, Vol. 9, No. 2, 2021",
+    "link": ""
+  },
+  {
+    "year": 2020,
+    "title": "Numerical Study on the Extrapolation Method for Predicting the Full-scale Resistance of a Ship with an Air Lubrication System",
+    "authors": "",
+    "venue": "한국해양공학회지, Vol. 34, No. 6, pp. 387–393, 2020",
+    "link": ""
+  },
+  {
+    "year": 2020,
+    "title": "Numerical study on the lift-drag and cavitation performances of a two-dimensional hydrofoil using the Coanda effect",
+    "authors": "",
+    "venue": "한국마린엔지니어링학회지, Vol. 44, No. 6, pp. 457–466, 2020",
+    "link": ""
+  },
+  {
+    "year": 2020,
+    "title": "A numerical study on hydrodynamic maneuvering derivatives for heave-pitch coupling motion of a ray-type underwater glider",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, Vol. 12, pp. 892–901, 2020",
+    "link": ""
+  },
+  {
+    "year": 2020,
+    "title": "Wake dynamics of a 3D curved cylinder in oblique flows",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, Vol. 12, pp. 501–517, 2020",
+    "link": ""
+  },
+  {
+    "year": 2020,
+    "title": "사용자-서브루틴과 양해법 유한 요소 해석을 이용한 선박의 유빙 저항 추정",
+    "authors": "",
+    "venue": "대한조선학회 논문집, Vol. 57, No. 2, pp. 88–95, 2020",
+    "link": ""
+  },
+  {
+    "year": 2020,
+    "title": "A NUMERICAL STUDY ON THE OPEN WATER PERFORMANCE OF A PROPELLER WITH SINUSOIDAL PITCH MOTION",
+    "authors": "",
+    "venue": "Brodogradnja, Vol. 71, No. 1, pp. 71–83, 2020",
+    "link": ""
+  },
+  {
+    "year": 2020,
+    "title": "A numerical investigation on the nominal wake of KVLCC2 model ship in regular head waves",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, Vol. 12, pp. 270–282, 2020",
+    "link": ""
+  },
+  {
+    "year": 2019,
+    "title": "Determination of linear and nonlinear roll damping coefficients of a ship section using CFD",
+    "authors": "",
+    "venue": "Vol. 70, No. 4, pp. 17–33, 2019",
+    "link": ""
+  },
+  {
+    "year": 2019,
+    "title": "해상 이동형 해수담수화 플랜트 선박의 저항 및 내항 성능 평가에 따른 장기 하중 추정",
+    "authors": "",
+    "venue": "한국해양공학회지, Vol. 33, No. 6, pp. 632–640, 2019",
+    "link": ""
+  },
+  {
+    "year": 2019,
+    "title": "성층화된 유체 내에서 내부파와 표면파의 파형 변화 실험을 위한 수치적 연구",
+    "authors": "",
+    "venue": "한국해양공학회지, Vol. 33, No. 3, pp. 236–244, 2019",
+    "link": ""
+  },
+  {
+    "year": 2019,
+    "title": "선박 측면 파공에서의 기름 유출 방지를 위해 설계된 앵커형 봉쇄장치의 유동 해석",
+    "authors": "",
+    "venue": "한국마린엔지니어링학회지, Vol. 43, No. 4, pp. 279–284, 2019",
+    "link": ""
+  },
+  {
+    "year": 2019,
+    "title": "밀도층 유체에서 해양 방사파 패턴 특징",
+    "authors": "",
+    "venue": "한국해양공학회지, Vol. 33, p. 92, 2019",
+    "link": ""
+  },
+  {
+    "year": 2018,
+    "title": "URANS simulation of a partially submerged propeller operating under the bollard condition",
+    "authors": "",
+    "venue": "Vol. 69, p. 107, 2018",
+    "link": ""
+  },
+  {
+    "year": 2018,
+    "title": "다양한 수직방향 무게중심을 고려한 사항 중 탱커 선체에 작용하는 유체력에 관한 연구",
+    "authors": "",
+    "venue": "한국해양공학회지, Vol. 32, p. 433, 2018",
+    "link": ""
+  },
+  {
+    "year": 2018,
+    "title": "OpenFOAM을 이용한 EOM 기반 2차원 수치 파생성에 관한 파라메트릭 연구",
+    "authors": "",
+    "venue": "대한조선학회 논문집, Vol. 55, p. 490, 2018",
+    "link": ""
+  },
+  {
+    "year": 2018,
+    "title": "해수 유출입 시스템을 적용한 ballast-free 선형의 저항 및 추진 성능에 관한 연구",
+    "authors": "",
+    "venue": "한국마린엔지니어링학회지, Vol. 42, p. 747, 2018",
+    "link": ""
+  },
+  {
+    "year": 2017,
+    "title": "A study on the sensitivity analysis of the hydrodynamic derivatives on the maneuverability of kvlcc2 in shallow water",
+    "authors": "",
+    "venue": "Brodogradnja, Vol. 68, p. 1, 2017",
+    "link": ""
+  },
+  {
+    "year": 2017,
+    "title": "Numerical study on the hydrodynamic characteristics of a propeller operating beneath a free surface",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, Vol. 9, p. 655, 2017",
+    "link": ""
+  },
+  {
+    "year": 2017,
+    "title": "A study on path optimization method of an unmanned surface vehicle under environmental loads using genetic algorithm",
+    "authors": "",
+    "venue": "Ocean Engineering, Vol. 142, p. 616, 2017",
+    "link": ""
+  },
+  {
+    "year": 2017,
+    "title": "Numerical study on the wake evolution of Contra-Rotating Propeller in propeller open water and self-propulsion conditions",
+    "authors": "",
+    "venue": "Brodogradnja, Vol. 68, p. 125, 2017",
+    "link": ""
+  },
+  {
+    "year": 2017,
+    "title": "유체 격자 시스템에 따른 유체-구조 연성 결과 분석 및 검증",
+    "authors": "",
+    "venue": "한국마린엔지니어링학회지, Vol. 41, p. 514, 2017",
+    "link": ""
+  },
+  {
+    "year": 2017,
+    "title": "정렬 및 비정렬 격자를 이용한 선박 저항 계산에서 Courant 수의 공간 분포 및 LTS 기법의 효율성에 관한 연구",
+    "authors": "",
+    "venue": "대한조선학회 논문집, Vol. 54, p. 83, 2017",
+    "link": ""
+  },
+  {
+    "year": 2017,
+    "title": "난류 촉진기 주위 천이 유동의 대형 와 모사를 위한 격자 테스트",
+    "authors": "",
+    "venue": "해양환경안전학회지, Vol. 23, p. 112, 2017",
+    "link": ""
+  },
+  {
+    "year": 2017,
+    "title": "자유수면과 프로펠러의 상호작용에 관한 수치적 연구",
+    "authors": "",
+    "venue": "한국마린엔지니어링학회지, Vol. 41, p. 36, 2017",
+    "link": ""
+  },
+  {
+    "year": 2015,
+    "title": "Investigation on the wake evolution of contra-rotating propeller using RANS computation and SPIV measurement",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, Vol. 7, p. 595, 2015",
+    "link": ""
+  },
+  {
+    "year": 2014,
+    "title": "Fluid-structure interaction for an elastic structure interacting with free surface in a rolling tank",
+    "authors": "",
+    "venue": "Ocean Engineering, Vol. 84, p. 201, 2014",
+    "link": ""
+  },
+  {
+    "year": 2014,
+    "title": "A Study on Wave Run-up Height and Depression Depth around Air-water Interface-piercing Circular Cylinder",
+    "authors": "",
+    "venue": "해양환경안전학회지, Vol. 20, p. 312, 2014",
+    "link": ""
+  },
+  {
+    "year": 2014,
+    "title": "천수 및 수로 운항 시 선박의 측벽효과",
+    "authors": "",
+    "venue": "한국항해항만학회지, Vol. 38, p. 19, 2014",
+    "link": ""
+  },
+  {
+    "year": 2013,
+    "title": "RANS simulation of cavitation and hull pressure fluctuation for marine propeller operating behind-hull condition",
+    "authors": "",
+    "venue": "International Journal of Naval Architecture and Ocean Engineering, Vol. 5, p. 502, 2013",
+    "link": ""
+  },
+  {
+    "year": 2013,
+    "title": "상반회전 프로펠러의 날개수 조합에 따른 축기진력 연구",
+    "authors": "",
+    "venue": "대한조선학회 논문집, Vol. 50, p. 282, 2013",
+    "link": ""
+  },
+  {
+    "year": 2012,
+    "title": "Dynamic overset CFD simulations of wind turbine aerodynamics",
+    "authors": "",
+    "venue": "Renewable Energy, Vol. 37, p. 285, 2012",
+    "link": ""
+  },
+  {
+    "year": 2011,
+    "title": "부분 침수 프로펠러의 bollard pull 추력 및 토오크 특성 연구",
+    "authors": "",
+    "venue": "한국해양환경공학회지, Vol. 14, p. 264, 2011",
+    "link": ""
+  },
+  {
+    "year": 2010,
+    "title": "Simulation of fluid-structure interaction for surface ships with linear/nonlinear deformations",
+    "authors": "",
+    "venue": "Ph.D. Dissertation, University of Iowa, 2010",
+    "link": ""
+  }
+]
