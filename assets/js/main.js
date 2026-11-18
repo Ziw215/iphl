@@ -107,7 +107,7 @@ const mediaHTML = (src, alt) => isVideo(src)
 
 // ---- JSON 읽기 ----
 async function loadJSON(path) {
-  const res = await fetch(path);
+  const res = await fetch(path, { cache: "no-cache" });   // 매번 서버에 새 버전 확인 (올린 뉴스·사진이 바로 보이게)
   if (!res.ok) throw new Error(`${path} 를 읽지 못했습니다 (${res.status})`);
   return res.json();
 }
