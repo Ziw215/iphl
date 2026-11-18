@@ -1396,7 +1396,7 @@
       "title": "추계 대한조선학회",
       "date": "2023-11",
       "year": 2023,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2023-11-추계-대한조선학회/thumb/KakaoTalk_20231226_151015076_03.webp",
       "info": [
         {
           "label": "발표",
@@ -1429,14 +1429,33 @@
           "count": 6
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2023-11-추계-대한조선학회/thumb/KakaoTalk_20231226_151015076_03.webp",
+          "full": "assets/img/gallery/conference/2023-11-추계-대한조선학회/full/KakaoTalk_20231226_151015076_03.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-11-추계-대한조선학회/thumb/KakaoTalk_20231226_151015076_05.webp",
+          "full": "assets/img/gallery/conference/2023-11-추계-대한조선학회/full/KakaoTalk_20231226_151015076_05.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-11-추계-대한조선학회/thumb/KakaoTalk_20231226_151914539_06.webp",
+          "full": "assets/img/gallery/conference/2023-11-추계-대한조선학회/full/KakaoTalk_20231226_151914539_06.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2023-10-PAAMES-AMEC",
       "title": "PAAMES-AMEC",
       "date": "2023-10",
       "year": 2023,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231023_134600216_01.webp",
       "info": [
         {
           "label": "",
@@ -1465,14 +1484,69 @@
           "count": 4
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231023_134600216_01.webp",
+          "full": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/full/KakaoTalk_20231023_134600216_01.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231025_175728691.webp",
+          "full": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/full/KakaoTalk_20231025_175728691.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231025_175738132.webp",
+          "full": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/full/KakaoTalk_20231025_175738132.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231025_184150682.webp",
+          "full": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/full/KakaoTalk_20231025_184150682.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231025_184150682_01.webp",
+          "full": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/full/KakaoTalk_20231025_184150682_01.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231025_184954337.webp",
+          "full": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/full/KakaoTalk_20231025_184954337.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231025_191905392_02.webp",
+          "full": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/full/KakaoTalk_20231025_191905392_02.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231025_191932264_02.webp",
+          "full": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/full/KakaoTalk_20231025_191932264_02.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/thumb/KakaoTalk_20231025_191936126_01.webp",
+          "full": "assets/img/gallery/conference/2023-10-PAAMES-AMEC/full/KakaoTalk_20231025_191936126_01.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2023-05-한국해양과학기술협의회-공동학술대회",
       "title": "한국해양과학기술협의회 공동학술대회",
       "date": "2023-05",
       "year": 2023,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2023-05-한국해양과학기술협의회-공동학술대회/thumb/KakaoTalk_20230622_103501156.webp",
       "info": [
         {
           "label": "발표",
@@ -1497,14 +1571,39 @@
           "count": 4
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2023-05-한국해양과학기술협의회-공동학술대회/thumb/KakaoTalk_20230622_103501156.webp",
+          "full": "assets/img/gallery/conference/2023-05-한국해양과학기술협의회-공동학술대회/full/KakaoTalk_20230622_103501156.webp",
+          "w": 1600,
+          "h": 1316
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-05-한국해양과학기술협의회-공동학술대회/thumb/KakaoTalk_20230622_103520804.webp",
+          "full": "assets/img/gallery/conference/2023-05-한국해양과학기술협의회-공동학술대회/full/KakaoTalk_20230622_103520804.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-05-한국해양과학기술협의회-공동학술대회/thumb/KakaoTalk_20230622_103957146.webp",
+          "full": "assets/img/gallery/conference/2023-05-한국해양과학기술협의회-공동학술대회/full/KakaoTalk_20230622_103957146.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-05-한국해양과학기술협의회-공동학술대회/thumb/KakaoTalk_20230622_105439603.webp",
+          "full": "assets/img/gallery/conference/2023-05-한국해양과학기술협의회-공동학술대회/full/KakaoTalk_20230622_105439603.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
     },
     {
       "id": "2023-02-선박해양유체연구회",
       "title": "선박해양유체연구회",
       "date": "2023-02",
       "year": 2023,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2023-02-선박해양유체연구회/thumb/KakaoTalk_20230228_171426969.webp",
       "info": [
         {
           "label": "발표",
@@ -1517,7 +1616,44 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2023-02-선박해양유체연구회/thumb/KakaoTalk_20230228_171426969.webp",
+          "full": "assets/img/gallery/conference/2023-02-선박해양유체연구회/full/KakaoTalk_20230228_171426969.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-02-선박해양유체연구회/thumb/KakaoTalk_20230228_171426969_01.webp",
+          "full": "assets/img/gallery/conference/2023-02-선박해양유체연구회/full/KakaoTalk_20230228_171426969_01.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-02-선박해양유체연구회/thumb/KakaoTalk_20230228_171426969_02.webp",
+          "full": "assets/img/gallery/conference/2023-02-선박해양유체연구회/full/KakaoTalk_20230228_171426969_02.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-02-선박해양유체연구회/thumb/KakaoTalk_20230228_171426969_03.webp",
+          "full": "assets/img/gallery/conference/2023-02-선박해양유체연구회/full/KakaoTalk_20230228_171426969_03.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-02-선박해양유체연구회/thumb/KakaoTalk_20230228_171426969_04.webp",
+          "full": "assets/img/gallery/conference/2023-02-선박해양유체연구회/full/KakaoTalk_20230228_171426969_04.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2023-02-선박해양유체연구회/thumb/KakaoTalk_20230228_171426969_05.webp",
+          "full": "assets/img/gallery/conference/2023-02-선박해양유체연구회/full/KakaoTalk_20230228_171426969_05.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2022-11-G-NAOE",
@@ -1548,7 +1684,7 @@
       "title": "대한조선학회 추계학술대회",
       "date": "2022-11",
       "year": 2022,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/0_단체_학회장.webp",
       "info": [
         {
           "label": "발표",
@@ -1585,7 +1721,86 @@
           "count": 7
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/0_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/0_단체_학회장.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/10_누구지_발표.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/10_누구지_발표.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/11_황보준_발표.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/11_황보준_발표.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/12_이동훈_발표.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/12_이동훈_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/13_이민홍_수상.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/13_이민홍_수상.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/1_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/1_단체_학회장.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/2_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/2_단체_학회장.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/3_단체_학회장.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/3_단체_학회장.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/5_현여진_발표.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/5_현여진_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/6_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/6_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/7_황보준_발표.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/7_황보준_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/8_이준희_발표.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/8_이준희_발표.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/thumb/9_이민홍_수상.webp",
+          "full": "assets/img/gallery/conference/2022-11-대한조선학회-추계학술대회/full/9_이민홍_수상.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2022-10-PRADS",
