@@ -2826,6 +2826,1788 @@
           "h": 1200
         }
       ]
+    },
+    {
+      "id": "2025-08-하계-MT",
+      "title": "하계 MT",
+      "date": "2025-08",
+      "year": 2025,
+      "cover": "assets/img/gallery/activity/2025-08-하계-MT/thumb/1.webp",
+      "info": [],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2025-08-하계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2025-08-하계-MT/full/1.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-08-하계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2025-08-하계-MT/full/2.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-08-하계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2025-08-하계-MT/full/3.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-08-하계-MT/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2025-08-하계-MT/full/4.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-08-하계-MT/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2025-08-하계-MT/full/5.webp",
+          "w": 897,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2025-08-후기-졸업식",
+      "title": "후기 졸업식",
+      "date": "2025-08",
+      "year": 2025,
+      "cover": "assets/img/gallery/activity/2025-08-후기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "이준희 (박사)"
+        },
+        {
+          "label": "",
+          "value": "김명민 (석사)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2025-08-후기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2025-08-후기-졸업식/full/1.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-08-후기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2025-08-후기-졸업식/full/2.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-08-후기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2025-08-후기-졸업식/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-08-후기-졸업식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2025-08-후기-졸업식/full/4.webp",
+          "w": 1600,
+          "h": 900
+        }
+      ]
+    },
+    {
+      "id": "2025-01-동계-MT",
+      "title": "동계 MT",
+      "date": "2025-01",
+      "year": 2025,
+      "cover": "assets/img/gallery/activity/2025-01-동계-MT/thumb/1.webp",
+      "info": [],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2025-01-동계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2025-01-동계-MT/full/1.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-01-동계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2025-01-동계-MT/full/2.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-01-동계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2025-01-동계-MT/full/3.webp",
+          "w": 1440,
+          "h": 811
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-01-동계-MT/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2025-01-동계-MT/full/4.webp",
+          "w": 811,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-01-동계-MT/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2025-01-동계-MT/full/5.webp",
+          "w": 1050,
+          "h": 1400
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2025-01-동계-MT/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2025-01-동계-MT/full/6.webp",
+          "w": 1080,
+          "h": 1440
+        }
+      ]
+    },
+    {
+      "id": "2024-11-제-4회-추진인의-밤",
+      "title": "제 4회 추진인의 밤",
+      "date": "2024-11",
+      "year": 2024,
+      "cover": "assets/img/gallery/activity/2024-11-제-4회-추진인의-밤/thumb/1.webp",
+      "info": [],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2024-11-제-4회-추진인의-밤/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2024-11-제-4회-추진인의-밤/full/1.webp",
+          "w": 1440,
+          "h": 811
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-11-제-4회-추진인의-밤/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2024-11-제-4회-추진인의-밤/full/2.webp",
+          "w": 1440,
+          "h": 811
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-11-제-4회-추진인의-밤/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2024-11-제-4회-추진인의-밤/full/3.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-11-제-4회-추진인의-밤/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2024-11-제-4회-추진인의-밤/full/4.webp",
+          "w": 1440,
+          "h": 1080
+        }
+      ]
+    },
+    {
+      "id": "2024-08-하계-LT",
+      "title": "하계 LT",
+      "date": "2024-08",
+      "year": 2024,
+      "cover": "assets/img/gallery/activity/2024-08-하계-LT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "하계 LT (가평)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/10.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/10.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/11.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/11.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/2.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/4.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/6.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/7.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/7.webp",
+          "w": 1600,
+          "h": 901
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/8.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/8.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-08-하계-LT/thumb/9.webp",
+          "full": "assets/img/gallery/activity/2024-08-하계-LT/full/9.webp",
+          "w": 1600,
+          "h": 900
+        }
+      ]
+    },
+    {
+      "id": "2024-05-한라산-등산",
+      "title": "한라산 등산",
+      "date": "2024-05",
+      "year": 2024,
+      "cover": "assets/img/gallery/activity/2024-05-한라산-등산/thumb/1.webp",
+      "info": [],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2024-05-한라산-등산/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2024-05-한라산-등산/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-05-한라산-등산/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2024-05-한라산-등산/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-05-한라산-등산/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2024-05-한라산-등산/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-05-한라산-등산/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2024-05-한라산-등산/full/4.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-05-한라산-등산/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2024-05-한라산-등산/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2024-02-전기-졸업식",
+      "title": "전기 졸업식",
+      "date": "2024-02",
+      "year": 2024,
+      "cover": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "김휘수, 황보준, 김대웅 (석사)"
+        },
+        {
+          "label": "",
+          "value": "유병우, 유원준 (학부)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2024-02-전기-졸업식/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2024-02-전기-졸업식/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2024-02-전기-졸업식/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2024-02-전기-졸업식/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2024-02-전기-졸업식/full/5.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2024-02-전기-졸업식/full/6.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/7.webp",
+          "full": "assets/img/gallery/activity/2024-02-전기-졸업식/full/7.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/8.webp",
+          "full": "assets/img/gallery/activity/2024-02-전기-졸업식/full/8.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-02-전기-졸업식/thumb/9.webp",
+          "full": "assets/img/gallery/activity/2024-02-전기-졸업식/full/9.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2024-01-동계-MT",
+      "title": "동계 MT",
+      "date": "2024-01",
+      "year": 2024,
+      "cover": "assets/img/gallery/activity/2024-01-동계-MT/thumb/1.webp",
+      "info": [],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2024-01-동계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2024-01-동계-MT/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-01-동계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2024-01-동계-MT/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2024-01-동계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2024-01-동계-MT/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2023-12-제-3회-추진인의-밤",
+      "title": "제 3회 추진인의 밤",
+      "date": "2023-12",
+      "year": 2023,
+      "cover": "assets/img/gallery/activity/2023-12-제-3회-추진인의-밤/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "김상현 교수님 연구실과 연합 MT (창원)"
+        },
+        {
+          "label": "",
+          "value": "제 3회 추진인의 밤"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2023-12-제-3회-추진인의-밤/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2023-12-제-3회-추진인의-밤/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2023-12-제-3회-추진인의-밤/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2023-12-제-3회-추진인의-밤/full/2.webp",
+          "w": 1600,
+          "h": 900
+        }
+      ]
+    },
+    {
+      "id": "2023-10-송도국제마라톤",
+      "title": "송도국제마라톤",
+      "date": "2023-10",
+      "year": 2023,
+      "cover": "assets/img/gallery/activity/2023-10-송도국제마라톤/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "송도국제마라톤대회 참가 (10km 부분)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2023-10-송도국제마라톤/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2023-10-송도국제마라톤/full/1.webp",
+          "w": 1411,
+          "h": 1058
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2023-10-송도국제마라톤/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2023-10-송도국제마라톤/full/2.webp",
+          "w": 1411,
+          "h": 1058
+        }
+      ]
+    },
+    {
+      "id": "2023-08-후기-졸업식",
+      "title": "후기 졸업식",
+      "date": "2023-08",
+      "year": 2023,
+      "cover": "assets/img/gallery/activity/2023-08-후기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 대학원 및 대학교 졸업식"
+        },
+        {
+          "label": "",
+          "value": "이형민 (석사)"
+        },
+        {
+          "label": "",
+          "value": "김명민 (학부)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2023-08-후기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2023-08-후기-졸업식/full/1.webp",
+          "w": 1500,
+          "h": 1126
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2023-08-후기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2023-08-후기-졸업식/full/2.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2023-08-후기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2023-08-후기-졸업식/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2023-02-전기-졸업식",
+      "title": "전기 졸업식",
+      "date": "2023-02",
+      "year": 2023,
+      "cover": "assets/img/gallery/activity/2023-02-전기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 대학원 및 대학교 졸업식"
+        },
+        {
+          "label": "",
+          "value": "김구현, 이동훈, 조준희 (석사)"
+        },
+        {
+          "label": "",
+          "value": "서무영 (학부)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2023-02-전기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2023-02-전기-졸업식/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2023-02-전기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2023-02-전기-졸업식/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2023-02-전기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2023-02-전기-졸업식/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2023-02-전기-졸업식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2023-02-전기-졸업식/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2023-01-동계-MT",
+      "title": "동계 MT",
+      "date": "2023-01",
+      "year": 2023,
+      "cover": "assets/img/gallery/activity/2023-01-동계-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "곤지암리조트 스키장"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2023-01-동계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2023-01-동계-MT/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2022-11-추진인의-밤",
+      "title": "추진인의 밤",
+      "date": "2022-11",
+      "year": 2022,
+      "cover": "assets/img/gallery/activity/2022-11-추진인의-밤/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "졸업생과 함께하는 선박해양추진연구실 홈커밍데이"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2022-11-추진인의-밤/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2022-11-추진인의-밤/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-11-추진인의-밤/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2022-11-추진인의-밤/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-11-추진인의-밤/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2022-11-추진인의-밤/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-11-추진인의-밤/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2022-11-추진인의-밤/full/4.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-11-추진인의-밤/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2022-11-추진인의-밤/full/5.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2022-10-송도국제마라톤",
+      "title": "송도국제마라톤",
+      "date": "2022-10",
+      "year": 2022,
+      "cover": "assets/img/gallery/activity/2022-10-송도국제마라톤/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "송도국제마라톤대회 참가 (10km 부분)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2022-10-송도국제마라톤/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2022-10-송도국제마라톤/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-10-송도국제마라톤/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2022-10-송도국제마라톤/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-10-송도국제마라톤/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2022-10-송도국제마라톤/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2022-08-하계-MT",
+      "title": "하계 MT",
+      "date": "2022-08",
+      "year": 2022,
+      "cover": "assets/img/gallery/activity/2022-08-하계-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "연구실 하계 MT (거제도)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/10.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/10.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/11.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/11.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/12.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/12.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/13.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/13.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/14.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/14.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/6.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/7.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/7.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/8.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/8.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-08-하계-MT/thumb/9.webp",
+          "full": "assets/img/gallery/activity/2022-08-하계-MT/full/9.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2022-06-등산-(한라산)",
+      "title": "등산 (한라산)",
+      "date": "2022-06",
+      "year": 2022,
+      "cover": "assets/img/gallery/activity/2022-06-등산-(한라산)/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "연구실 등산(한라산)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2022-06-등산-(한라산)/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2022-06-등산-(한라산)/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-06-등산-(한라산)/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2022-06-등산-(한라산)/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-06-등산-(한라산)/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2022-06-등산-(한라산)/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-06-등산-(한라산)/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2022-06-등산-(한라산)/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-06-등산-(한라산)/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2022-06-등산-(한라산)/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-06-등산-(한라산)/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2022-06-등산-(한라산)/full/6.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-06-등산-(한라산)/thumb/7.webp",
+          "full": "assets/img/gallery/activity/2022-06-등산-(한라산)/full/7.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-06-등산-(한라산)/thumb/8.webp",
+          "full": "assets/img/gallery/activity/2022-06-등산-(한라산)/full/8.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2022-02-전기-졸업식",
+      "title": "전기 졸업식",
+      "date": "2022-02",
+      "year": 2022,
+      "cover": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 대학원 및 대학교 졸업식"
+        },
+        {
+          "label": "",
+          "value": "황홍식, 이주한 (석사)"
+        },
+        {
+          "label": "",
+          "value": "김대웅, 현여진, 김종철, 강신민 (학부)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/10.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/10.webp",
+          "w": 1280,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/11.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/11.webp",
+          "w": 1280,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/12.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/12.webp",
+          "w": 1280,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/13.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/13.webp",
+          "w": 1280,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/2.webp",
+          "w": 959,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/3.webp",
+          "w": 1280,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/4.webp",
+          "w": 1280,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/5.webp",
+          "w": 1280,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/6.webp",
+          "w": 959,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/7.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/7.webp",
+          "w": 959,
+          "h": 1280
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/8.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/8.webp",
+          "w": 1280,
+          "h": 960
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2022-02-전기-졸업식/thumb/9.webp",
+          "full": "assets/img/gallery/activity/2022-02-전기-졸업식/full/9.webp",
+          "w": 1280,
+          "h": 1280
+        }
+      ]
+    },
+    {
+      "id": "2021-09-등산-(계양산)",
+      "title": "등산 (계양산)",
+      "date": "2021-09",
+      "year": 2021,
+      "cover": "assets/img/gallery/activity/2021-09-등산-(계양산)/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "연구실 등산 (계양산)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2021-09-등산-(계양산)/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2021-09-등산-(계양산)/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-09-등산-(계양산)/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2021-09-등산-(계양산)/full/2.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-09-등산-(계양산)/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2021-09-등산-(계양산)/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-09-등산-(계양산)/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2021-09-등산-(계양산)/full/4.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-09-등산-(계양산)/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2021-09-등산-(계양산)/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2021-08-후기-졸업식",
+      "title": "후기 졸업식",
+      "date": "2021-08",
+      "year": 2021,
+      "cover": "assets/img/gallery/activity/2021-08-후기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 대학원 및 대학교 졸업식"
+        },
+        {
+          "label": "",
+          "value": "장윤호, 권성환 (석사)"
+        },
+        {
+          "label": "",
+          "value": "김휘수 (학부)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2021-08-후기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2021-08-후기-졸업식/full/1.webp",
+          "w": 1440,
+          "h": 1292
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-08-후기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2021-08-후기-졸업식/full/2.webp",
+          "w": 1440,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-08-후기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2021-08-후기-졸업식/full/3.webp",
+          "w": 1440,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-08-후기-졸업식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2021-08-후기-졸업식/full/4.webp",
+          "w": 1440,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-08-후기-졸업식/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2021-08-후기-졸업식/full/5.webp",
+          "w": 1440,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-08-후기-졸업식/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2021-08-후기-졸업식/full/6.webp",
+          "w": 1440,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-08-후기-졸업식/thumb/7.webp",
+          "full": "assets/img/gallery/activity/2021-08-후기-졸업식/full/7.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-08-후기-졸업식/thumb/8.webp",
+          "full": "assets/img/gallery/activity/2021-08-후기-졸업식/full/8.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2021-02-전기-졸업식",
+      "title": "전기 졸업식",
+      "date": "2021-02",
+      "year": 2021,
+      "cover": "assets/img/gallery/activity/2021-02-전기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 대학원 및 대학교 졸업식"
+        },
+        {
+          "label": "",
+          "value": "엄명진, 하지연, 김관우, 김동영 (석사)"
+        },
+        {
+          "label": "",
+          "value": "김구현, 이동훈, 조준희 (학부)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2021-02-전기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2021-02-전기-졸업식/full/1.webp",
+          "w": 1600,
+          "h": 1013
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-02-전기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2021-02-전기-졸업식/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-02-전기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2021-02-전기-졸업식/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-02-전기-졸업식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2021-02-전기-졸업식/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-02-전기-졸업식/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2021-02-전기-졸업식/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2021-01-학위-수여식",
+      "title": "학위 수여식",
+      "date": "2021-01",
+      "year": 2021,
+      "cover": "assets/img/gallery/activity/2021-01-학위-수여식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 석사 학위 수여식"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2021-01-학위-수여식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2021-01-학위-수여식/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-01-학위-수여식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2021-01-학위-수여식/full/2.webp",
+          "w": 1600,
+          "h": 1263
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-01-학위-수여식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2021-01-학위-수여식/full/3.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-01-학위-수여식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2021-01-학위-수여식/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-01-학위-수여식/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2021-01-학위-수여식/full/5.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-01-학위-수여식/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2021-01-학위-수여식/full/6.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-01-학위-수여식/thumb/7.webp",
+          "full": "assets/img/gallery/activity/2021-01-학위-수여식/full/7.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2021-01-학위-수여식/thumb/8.webp",
+          "full": "assets/img/gallery/activity/2021-01-학위-수여식/full/8.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2020-11-추계-연합-MT",
+      "title": "추계 연합 MT",
+      "date": "2020-11",
+      "year": 2020,
+      "cover": "assets/img/gallery/activity/2020-11-추계-연합-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "김상현 교수님 연구실과 연합 MT (창원)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2020-11-추계-연합-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2020-11-추계-연합-MT/full/1.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-11-추계-연합-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2020-11-추계-연합-MT/full/2.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-11-추계-연합-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2020-11-추계-연합-MT/full/3.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-11-추계-연합-MT/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2020-11-추계-연합-MT/full/4.webp",
+          "w": 900,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2020-08-하계-MT",
+      "title": "하계 MT",
+      "date": "2020-08",
+      "year": 2020,
+      "cover": "assets/img/gallery/activity/2020-08-하계-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "연구실 하계 MT (태안)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/10.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/10.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/11.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/11.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/6.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/7.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/7.webp",
+          "w": 1600,
+          "h": 1202
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/8.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/8.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-하계-MT/thumb/9.webp",
+          "full": "assets/img/gallery/activity/2020-08-하계-MT/full/9.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2020-08-후기-졸업식",
+      "title": "후기 졸업식",
+      "date": "2020-08",
+      "year": 2020,
+      "cover": "assets/img/gallery/activity/2020-08-후기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 대학원 졸업식"
+        },
+        {
+          "label": "",
+          "value": "이순현 (석사)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-후기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2020-08-후기-졸업식/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-후기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2020-08-후기-졸업식/full/2.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-후기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2020-08-후기-졸업식/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-08-후기-졸업식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2020-08-후기-졸업식/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2020-07-대우조선해양-견학",
+      "title": "대우조선해양 견학",
+      "date": "2020-07",
+      "year": 2020,
+      "cover": "assets/img/gallery/activity/2020-07-대우조선해양-견학/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "구원철 교수님 연구실과 대우조선해양 시흥 R&D 센터 견학"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2020-07-대우조선해양-견학/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2020-07-대우조선해양-견학/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-07-대우조선해양-견학/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2020-07-대우조선해양-견학/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-07-대우조선해양-견학/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2020-07-대우조선해양-견학/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-07-대우조선해양-견학/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2020-07-대우조선해양-견학/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2020-02-전기-졸업식",
+      "title": "전기 졸업식",
+      "date": "2020-02",
+      "year": 2020,
+      "cover": "assets/img/gallery/activity/2020-02-전기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 학부 졸업식"
+        },
+        {
+          "label": "",
+          "value": "황홍식, 이주한 (학부)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2020-02-전기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2020-02-전기-졸업식/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-02-전기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2020-02-전기-졸업식/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-02-전기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2020-02-전기-졸업식/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-02-전기-졸업식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2020-02-전기-졸업식/full/4.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-02-전기-졸업식/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2020-02-전기-졸업식/full/5.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-02-전기-졸업식/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2020-02-전기-졸업식/full/6.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2020-01-동계-MT",
+      "title": "동계 MT",
+      "date": "2020-01",
+      "year": 2020,
+      "cover": "assets/img/gallery/activity/2020-01-동계-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "김상현 교수님 연구실과 연합 MT (대관령)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2020-01-동계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2020-01-동계-MT/full/1.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-01-동계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2020-01-동계-MT/full/2.webp",
+          "w": 1600,
+          "h": 1067
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-01-동계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2020-01-동계-MT/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-01-동계-MT/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2020-01-동계-MT/full/4.webp",
+          "w": 1067,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2020-01-동계-MT/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2020-01-동계-MT/full/5.webp",
+          "w": 1600,
+          "h": 1067
+        }
+      ]
+    },
+    {
+      "id": "2019-07-운동회",
+      "title": "운동회",
+      "date": "2019-07",
+      "year": 2019,
+      "cover": "assets/img/gallery/activity/2019-07-운동회/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "연구실 운동회 (볼링, 실내야구, 야구장)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2019-07-운동회/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2019-07-운동회/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2019-07-운동회/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2019-07-운동회/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2019-07-운동회/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2019-07-운동회/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2019-07-운동회/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2019-07-운동회/full/4.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2019-07-운동회/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2019-07-운동회/full/5.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2019-07-운동회/thumb/6.webp",
+          "full": "assets/img/gallery/activity/2019-07-운동회/full/6.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2019-02-전기-졸업식",
+      "title": "전기 졸업식",
+      "date": "2019-02",
+      "year": 2019,
+      "cover": "assets/img/gallery/activity/2019-02-전기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 학부 졸업식"
+        },
+        {
+          "label": "",
+          "value": "신현우, 장윤호, 하지연, 김동영"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2019-02-전기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2019-02-전기-졸업식/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2019-02-전기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2019-02-전기-졸업식/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2019-02-전기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2019-02-전기-졸업식/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "id": "2019-01-동계-MT",
+      "title": "동계 MT",
+      "date": "2019-01",
+      "year": 2019,
+      "cover": "assets/img/gallery/activity/2019-01-동계-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "정준모 교수님 연구실과 연합 MT (태백산)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2019-01-동계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2019-01-동계-MT/full/1.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2019-01-동계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2019-01-동계-MT/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2019-01-동계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2019-01-동계-MT/full/3.webp",
+          "w": 1600,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2018-07-하계-MT",
+      "title": "하계 MT",
+      "date": "2018-07",
+      "year": 2018,
+      "cover": "assets/img/gallery/activity/2018-07-하계-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "정준모 교수님 연구실과 연합 MT (운악산)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2018-07-하계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2018-07-하계-MT/full/1.webp",
+          "w": 960,
+          "h": 720
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2018-07-하계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2018-07-하계-MT/full/2.webp",
+          "w": 960,
+          "h": 720
+        }
+      ]
+    },
+    {
+      "id": "2018-04-전기-졸업식",
+      "title": "전기 졸업식",
+      "date": "2018-04",
+      "year": 2018,
+      "cover": "assets/img/gallery/activity/2018-04-전기-졸업식/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "인하대학교에서 학부 졸업식"
+        },
+        {
+          "label": "",
+          "value": "김관우, 이순현"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2018-04-전기-졸업식/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2018-04-전기-졸업식/full/1.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2018-04-전기-졸업식/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2018-04-전기-졸업식/full/2.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2018-04-전기-졸업식/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2018-04-전기-졸업식/full/3.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2018-04-전기-졸업식/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2018-04-전기-졸업식/full/4.webp",
+          "w": 1440,
+          "h": 1080
+        }
+      ]
+    },
+    {
+      "id": "2018-02-유체연구실-연합-MT",
+      "title": "유체연구실 연합 MT",
+      "date": "2018-02",
+      "year": 2018,
+      "cover": null,
+      "info": [
+        {
+          "label": "",
+          "value": "이영길 교수님, 김상현 교수님 연구실과 연합 MT (강화도)"
+        }
+      ],
+      "photos": []
+    },
+    {
+      "id": "2018-01-동계-MT",
+      "title": "동계 MT",
+      "date": "2018-01",
+      "year": 2018,
+      "cover": "assets/img/gallery/activity/2018-01-동계-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "정준모 교수님 연구실과 연합 MT (계방산)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2018-01-동계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2018-01-동계-MT/full/1.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2018-01-동계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2018-01-동계-MT/full/2.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2018-01-동계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2018-01-동계-MT/full/3.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2018-01-동계-MT/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2018-01-동계-MT/full/4.webp",
+          "w": 900,
+          "h": 1600
+        }
+      ]
+    },
+    {
+      "id": "2017-11-동계-MT",
+      "title": "동계 MT",
+      "date": "2017-11",
+      "year": 2017,
+      "cover": "assets/img/gallery/activity/2017-11-동계-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "연구실 동계 MT, 졸업생 김태형 참석 (청계산)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2017-11-동계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2017-11-동계-MT/full/1.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2017-11-동계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2017-11-동계-MT/full/2.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2017-11-동계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2017-11-동계-MT/full/3.webp",
+          "w": 1600,
+          "h": 900
+        }
+      ]
+    },
+    {
+      "id": "2017-08-하계-MT",
+      "title": "하계 MT",
+      "date": "2017-08",
+      "year": 2017,
+      "cover": "assets/img/gallery/activity/2017-08-하계-MT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "정준모 교수님 연구실과 연합 MT (가야산)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2017-08-하계-MT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2017-08-하계-MT/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2017-08-하계-MT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2017-08-하계-MT/full/2.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2017-08-하계-MT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2017-08-하계-MT/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2017-08-하계-MT/thumb/4.webp",
+          "full": "assets/img/gallery/activity/2017-08-하계-MT/full/4.webp",
+          "w": 960,
+          "h": 720
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2017-08-하계-MT/thumb/5.webp",
+          "full": "assets/img/gallery/activity/2017-08-하계-MT/full/5.webp",
+          "w": 960,
+          "h": 720
+        }
+      ]
+    },
+    {
+      "id": "2017-02-신입생-OT",
+      "title": "신입생 OT",
+      "date": "2017-02",
+      "year": 2017,
+      "cover": "assets/img/gallery/activity/2017-02-신입생-OT/thumb/1.webp",
+      "info": [
+        {
+          "label": "",
+          "value": "신입생 OT (설악산)"
+        }
+      ],
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/activity/2017-02-신입생-OT/thumb/1.webp",
+          "full": "assets/img/gallery/activity/2017-02-신입생-OT/full/1.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2017-02-신입생-OT/thumb/2.webp",
+          "full": "assets/img/gallery/activity/2017-02-신입생-OT/full/2.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/activity/2017-02-신입생-OT/thumb/3.webp",
+          "full": "assets/img/gallery/activity/2017-02-신입생-OT/full/3.webp",
+          "w": 960,
+          "h": 540
+        }
+      ]
     }
   ]
 }
