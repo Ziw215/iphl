@@ -16,17 +16,17 @@
       "B.S., Naval Architecture and Ocean Engineering, Pusan National University"
     ],
     "career": [
-      "2024.03 – Present: Professor, Inha University",
-      "2019.03 – 2024.02: Associate Professor, Inha University",
-      "2016.03 – 2019.02: Assistant Professor, Inha University",
-      "2015.03 – 2016.02: Assistant Professor, Ulsan College",
-      "2000.01 – 2015.02: Senior Researcher, Samsung Heavy Industries Central R&D Institute"
+      "2024.03 – Present: 인하대학교 조선해양공학과 정교수",
+      "2019.03 – 2024.02: 인하대학교 조선해양공학과 부교수",
+      "2016.03 – 2019.02: 인하대학교 조선해양공학과 조교수",
+      "2015.03 – 2016.02: 울산과학대학교 조교수",
+      "2000.01 – 2015.02: 삼성중공업 중앙연구소 수석연구원"
     ],
     "awards": [
-      "2021.10.21: Best Associate Editor Award, The Korean Society of Marine Engineering",
-      "2021.09.09: Commendation, Ministry of Trade, Industry and Energy",
-      "2021.06.24: Excellent Paper Award, The Korean Society of Marine Engineering",
-      "2016.11.03: Paper Award, The Society of Naval Architects of Korea"
+      "2021.10.21: Best Associate Editor Award, 한국마린엔지니어링학회",
+      "2021.09.09: 표창장, 산업통상자원부",
+      "2021.06.24: 우수논문상, 한국마린엔지니어링학회",
+      "2016.11.03: ​논문상, 대한조선학회"
     ]
   },
 
@@ -88,5 +88,5 @@
   { "group": "Alumni", "no": "20", "degree": "BS", "name": "Jong-Chul Kim", "nameKo": "김종철", "interests": "", "thesis": "", "current": "현대중공업 기본계획부", "email": "" },
   { "group": "Alumni", "no": "28", "degree": "BS", "name": "Joo-Hyun Lee", "nameKo": "이주현", "interests": "자율운항", "thesis": "", "current": "서울대학교 대학원", "email": "eclassjh@naver.com" },
   { "group": "Alumni", "no": "32", "degree": "BS", "name": "Min-Hong Lee", "nameKo": "이민홍", "interests": "", "thesis": "", "current": "국군수송사령부", "email": "mhlee6629@gmail.com" },
-  { "group": "Alumni", "no": "44", "degree": "BS", "name": "Jun-Yeong Kim", "nameKo": "김준영", "interests": "저항추진", "thesis": "", "current": "", "email": "smjun0201@naver.com" }
+  { "group": "Alumni", "no": "44", "degree": "BS", "name": "Jun-Yeong Kim", "nameKo": "김준영", "interests": "저항추진", "thesis": "", "current": "삼성중공업", "email": "smjun0201@naver.com" }
 ]
