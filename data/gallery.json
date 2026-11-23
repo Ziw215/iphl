@@ -1660,7 +1660,7 @@
       "title": "G-NAOE",
       "date": "2022-11",
       "year": 2022,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2022-11-G-NAOE/thumb/1.webp",
       "info": [
         {
           "label": "발표",
@@ -1677,7 +1677,38 @@
           "count": 2
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-G-NAOE/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2022-11-G-NAOE/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-G-NAOE/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2022-11-G-NAOE/full/2.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-G-NAOE/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2022-11-G-NAOE/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-G-NAOE/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2022-11-G-NAOE/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-11-G-NAOE/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2022-11-G-NAOE/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2022-11-대한조선학회-추계학술대회",
@@ -1807,7 +1838,7 @@
       "title": "PRADS",
       "date": "2022-10",
       "year": 2022,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2022-10-PRADS/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -1832,14 +1863,105 @@
           "count": 3
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/1.webp",
+          "w": 1080,
+          "h": 1440
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/10.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/10.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/11.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/11.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/12.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/12.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/13.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/13.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/14.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/14.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/15.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/15.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/4.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/5.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/6.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/7.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/7.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/8.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/8.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-10-PRADS/thumb/9.webp",
+          "full": "assets/img/gallery/conference/2022-10-PRADS/full/9.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2022-06-한국해양과학기술협의회-공동학술대회",
       "title": "한국해양과학기술협의회 공동학술대회",
       "date": "2022-06",
       "year": 2022,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/1.webp",
       "info": [
         {
           "label": "발표",
@@ -1868,7 +1990,68 @@
           "count": 5
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/10.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/10.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/3.webp",
+          "w": 666,
+          "h": 731
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/5.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/6.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/7.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/7.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/8.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/8.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/thumb/9.webp",
+          "full": "assets/img/gallery/conference/2022-06-한국해양과학기술협의회-공동학술대회/full/9.webp",
+          "w": 1600,
+          "h": 1600
+        }
+      ]
     },
     {
       "id": "2021-11-대한조선학회-추계학술대회",
@@ -2102,7 +2285,7 @@
       "title": "추계 대한조선학회",
       "date": "2020-11",
       "year": 2020,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/1.webp",
       "info": [
         {
           "label": "발표",
@@ -2123,14 +2306,69 @@
           "count": 3
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2020-11-추계-대한조선학회/full/1.webp",
+          "w": 1600,
+          "h": 1385
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2020-11-추계-대한조선학회/full/2.webp",
+          "w": 1600,
+          "h": 1185
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2020-11-추계-대한조선학회/full/3.webp",
+          "w": 1600,
+          "h": 1030
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2020-11-추계-대한조선학회/full/4.webp",
+          "w": 1600,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2020-11-추계-대한조선학회/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2020-11-추계-대한조선학회/full/6.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/7.webp",
+          "full": "assets/img/gallery/conference/2020-11-추계-대한조선학회/full/7.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/8.webp",
+          "full": "assets/img/gallery/conference/2020-11-추계-대한조선학회/full/8.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-11-추계-대한조선학회/thumb/9.webp",
+          "full": "assets/img/gallery/conference/2020-11-추계-대한조선학회/full/9.webp",
+          "w": 1200,
+          "h": 1600
+        }
+      ]
     },
     {
       "id": "2020-07-KAOSTS",
       "title": "KAOSTS",
       "date": "2020-07",
       "year": 2020,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2020-07-KAOSTS/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2167,14 +2405,63 @@
           "count": 6
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2020-07-KAOSTS/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2020-07-KAOSTS/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-07-KAOSTS/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2020-07-KAOSTS/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-07-KAOSTS/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2020-07-KAOSTS/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-07-KAOSTS/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2020-07-KAOSTS/full/4.webp",
+          "w": 960,
+          "h": 720
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-07-KAOSTS/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2020-07-KAOSTS/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-07-KAOSTS/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2020-07-KAOSTS/full/6.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-07-KAOSTS/thumb/7.webp",
+          "full": "assets/img/gallery/conference/2020-07-KAOSTS/full/7.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-07-KAOSTS/thumb/8.webp",
+          "full": "assets/img/gallery/conference/2020-07-KAOSTS/full/8.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2020-02-WSOS",
       "title": "WSOS",
       "date": "2020-02",
       "year": 2020,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2020-02-WSOS/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2191,28 +2478,60 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2020-02-WSOS/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2020-02-WSOS/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-02-WSOS/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2020-02-WSOS/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-02-WSOS/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2020-02-WSOS/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2020-02-WSOS/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2020-02-WSOS/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2019-10-PRADS",
       "title": "PRADS",
       "date": "2019-10",
       "year": 2019,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2019-10-PRADS/thumb/1.webp",
       "info": [
         {
           "label": "",
           "value": "Practical Design of Ships"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-PRADS/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2019-10-PRADS/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2019-10-추계-대한조선학회",
       "title": "추계 대한조선학회",
       "date": "2019-10",
       "year": 2019,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/1.webp",
       "info": [
         {
           "label": "발표",
@@ -2241,14 +2560,69 @@
           "count": 5
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2019-10-추계-대한조선학회/full/1.webp",
+          "w": 1600,
+          "h": 1207
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2019-10-추계-대한조선학회/full/2.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2019-10-추계-대한조선학회/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2019-10-추계-대한조선학회/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2019-10-추계-대한조선학회/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2019-10-추계-대한조선학회/full/6.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/7.webp",
+          "full": "assets/img/gallery/conference/2019-10-추계-대한조선학회/full/7.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/8.webp",
+          "full": "assets/img/gallery/conference/2019-10-추계-대한조선학회/full/8.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-10-추계-대한조선학회/thumb/9.webp",
+          "full": "assets/img/gallery/conference/2019-10-추계-대한조선학회/full/9.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2019-07-EKC",
       "title": "EKC",
       "date": "2019-07",
       "year": 2019,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2019-07-EKC/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2265,14 +2639,33 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2019-07-EKC/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2019-07-EKC/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-07-EKC/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2019-07-EKC/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-07-EKC/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2019-07-EKC/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2019-07-SMP",
       "title": "SMP",
       "date": "2019-07",
       "year": 2019,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2019-07-SMP/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2289,14 +2682,33 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2019-07-SMP/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2019-07-SMP/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-07-SMP/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2019-07-SMP/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-07-SMP/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2019-07-SMP/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2019-05-KAOSTS",
       "title": "KAOSTS",
       "date": "2019-05",
       "year": 2019,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2337,7 +2749,92 @@
           "count": 6
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/1.webp",
+          "w": 1600,
+          "h": 1444
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/10.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/10.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/11.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/11.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/12.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/12.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/13.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/13.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/14.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/14.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/2.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/3.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/4.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/6.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/7.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/7.webp",
+          "w": 1200,
+          "h": 1600
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/8.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/8.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2019-05-KAOSTS/thumb/9.webp",
+          "full": "assets/img/gallery/conference/2019-05-KAOSTS/full/9.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2019-01-WSOS",
@@ -2368,7 +2865,7 @@
       "title": "WMTC",
       "date": "2018-12",
       "year": 2018,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2018-12-WMTC/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2389,14 +2886,51 @@
           "count": 2
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2018-12-WMTC/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2018-12-WMTC/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-12-WMTC/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2018-12-WMTC/full/2.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-12-WMTC/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2018-12-WMTC/full/3.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-12-WMTC/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2018-12-WMTC/full/4.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-12-WMTC/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2018-12-WMTC/full/5.webp",
+          "w": 1600,
+          "h": 1200
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-12-WMTC/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2018-12-WMTC/full/6.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2018-10-PAAMES",
       "title": "PAAMES",
       "date": "2018-10",
       "year": 2018,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2018-10-PAAMES/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2421,14 +2955,51 @@
           "count": 3
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-PAAMES/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2018-10-PAAMES/full/1.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-PAAMES/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2018-10-PAAMES/full/2.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-PAAMES/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2018-10-PAAMES/full/3.webp",
+          "w": 960,
+          "h": 720
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-PAAMES/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2018-10-PAAMES/full/4.webp",
+          "w": 960,
+          "h": 720
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-PAAMES/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2018-10-PAAMES/full/5.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-PAAMES/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2018-10-PAAMES/full/6.webp",
+          "w": 1440,
+          "h": 810
+        }
+      ]
     },
     {
       "id": "2018-10-PACOMS",
       "title": "PACOMS",
       "date": "2018-10",
       "year": 2018,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2018-10-PACOMS/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2445,14 +3016,27 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-PACOMS/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2018-10-PACOMS/full/1.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-PACOMS/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2018-10-PACOMS/full/2.webp",
+          "w": 1440,
+          "h": 810
+        }
+      ]
     },
     {
       "id": "2018-10-추계-대한조선학회",
       "title": "추계 대한조선학회",
       "date": "2018-10",
       "year": 2018,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2018-10-추계-대한조선학회/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2485,14 +3069,45 @@
           "count": 5
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-추계-대한조선학회/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2018-10-추계-대한조선학회/full/1.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-추계-대한조선학회/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2018-10-추계-대한조선학회/full/2.webp",
+          "w": 960,
+          "h": 480
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-추계-대한조선학회/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2018-10-추계-대한조선학회/full/3.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-추계-대한조선학회/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2018-10-추계-대한조선학회/full/4.webp",
+          "w": 960,
+          "h": 720
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-추계-대한조선학회/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2018-10-추계-대한조선학회/full/5.webp",
+          "w": 1440,
+          "h": 1080
+        }
+      ]
     },
     {
       "id": "2018-10-한국해양공학회",
       "title": "한국해양공학회",
       "date": "2018-10",
       "year": 2018,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2018-10-한국해양공학회/thumb/1.webp",
       "info": [
         {
           "label": "발표",
@@ -2513,14 +3128,39 @@
           "count": 3
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-한국해양공학회/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2018-10-한국해양공학회/full/1.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-한국해양공학회/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2018-10-한국해양공학회/full/2.webp",
+          "w": 1280,
+          "h": 720
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-한국해양공학회/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2018-10-한국해양공학회/full/3.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-10-한국해양공학회/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2018-10-한국해양공학회/full/4.webp",
+          "w": 1440,
+          "h": 810
+        }
+      ]
     },
     {
       "id": "2018-09-ICHD",
       "title": "ICHD",
       "date": "2018-09",
       "year": 2018,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2018-09-ICHD/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2537,14 +3177,57 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2018-09-ICHD/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2018-09-ICHD/full/1.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-09-ICHD/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2018-09-ICHD/full/2.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-09-ICHD/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2018-09-ICHD/full/3.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-09-ICHD/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2018-09-ICHD/full/4.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-09-ICHD/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2018-09-ICHD/full/5.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-09-ICHD/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2018-09-ICHD/full/6.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-09-ICHD/thumb/7.webp",
+          "full": "assets/img/gallery/conference/2018-09-ICHD/full/7.webp",
+          "w": 1440,
+          "h": 810
+        }
+      ]
     },
     {
       "id": "2018-08-EKC",
       "title": "EKC",
       "date": "2018-08",
       "year": 2018,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2018-08-EKC/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2561,7 +3244,26 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2018-08-EKC/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2018-08-EKC/full/1.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-08-EKC/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2018-08-EKC/full/2.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-08-EKC/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2018-08-EKC/full/3.webp",
+          "w": 467,
+          "h": 960
+        }
+      ]
     },
     {
       "id": "2018-08-유체공학학술대회",
@@ -2588,7 +3290,7 @@
       "title": "KAOSTS",
       "date": "2018-05",
       "year": 2018,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2621,7 +3323,74 @@
           "count": 5
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/1.webp",
+          "w": 1440,
+          "h": 1244
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/10.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/10.webp",
+          "w": 1152,
+          "h": 648
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/11.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/11.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/2.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/3.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/4.webp",
+          "w": 360,
+          "h": 640
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/5.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/5.webp",
+          "w": 640,
+          "h": 480
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/6.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/6.webp",
+          "w": 1440,
+          "h": 810
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/7.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/7.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/8.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/8.webp",
+          "w": 1440,
+          "h": 1080
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2018-05-KAOSTS/thumb/9.webp",
+          "full": "assets/img/gallery/conference/2018-05-KAOSTS/full/9.webp",
+          "w": 1152,
+          "h": 648
+        }
+      ]
     },
     {
       "id": "2018-02-WSOS",
@@ -2652,7 +3421,7 @@
       "title": "IWSH",
       "date": "2017-11",
       "year": 2017,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2017-11-IWSH/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2669,42 +3438,75 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2017-11-IWSH/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2017-11-IWSH/full/1.webp",
+          "w": 1600,
+          "h": 900
+        }
+      ]
     },
     {
       "id": "2017-11-추계-대한조선학회",
       "title": "추계 대한조선학회",
       "date": "2017-11",
       "year": 2017,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2017-11-추계-대한조선학회/thumb/1.webp",
       "info": [
         {
           "label": "",
           "value": "추계 대한조선학회 + 추계 MT"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2017-11-추계-대한조선학회/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2017-11-추계-대한조선학회/full/1.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2017-11-추계-대한조선학회/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2017-11-추계-대한조선학회/full/2.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2017-11-추계-대한조선학회/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2017-11-추계-대한조선학회/full/3.webp",
+          "w": 960,
+          "h": 540
+        }
+      ]
     },
     {
       "id": "2017-09-ITTC",
       "title": "ITTC",
       "date": "2017-09",
       "year": 2017,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2017-09-ITTC/thumb/1.webp",
       "info": [
         {
           "label": "",
           "value": "International Towing Tank Conference"
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2017-09-ITTC/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2017-09-ITTC/full/1.webp",
+          "w": 1600,
+          "h": 1200
+        }
+      ]
     },
     {
       "id": "2017-06-SMP",
       "title": "SMP",
       "date": "2017-06",
       "year": 2017,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2017-06-SMP/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2721,14 +3523,39 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2017-06-SMP/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2017-06-SMP/full/1.webp",
+          "w": 1600,
+          "h": 900
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2017-06-SMP/thumb/2.webp",
+          "full": "assets/img/gallery/conference/2017-06-SMP/full/2.webp",
+          "w": 960,
+          "h": 540
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2017-06-SMP/thumb/3.webp",
+          "full": "assets/img/gallery/conference/2017-06-SMP/full/3.webp",
+          "w": 960,
+          "h": 720
+        },
+        {
+          "thumb": "assets/img/gallery/conference/2017-06-SMP/thumb/4.webp",
+          "full": "assets/img/gallery/conference/2017-06-SMP/full/4.webp",
+          "w": 1600,
+          "h": 900
+        }
+      ]
     },
     {
       "id": "2017-04-KAOSTS",
       "title": "KAOSTS",
       "date": "2017-04",
       "year": 2017,
-      "cover": null,
+      "cover": "assets/img/gallery/conference/2017-04-KAOSTS/thumb/1.webp",
       "info": [
         {
           "label": "",
@@ -2749,7 +3576,14 @@
           "count": 1
         }
       ],
-      "photos": []
+      "photos": [
+        {
+          "thumb": "assets/img/gallery/conference/2017-04-KAOSTS/thumb/1.webp",
+          "full": "assets/img/gallery/conference/2017-04-KAOSTS/full/1.webp",
+          "w": 1600,
+          "h": 900
+        }
+      ]
     }
   ],
   "activity": [
